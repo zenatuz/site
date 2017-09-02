@@ -30,4 +30,3 @@ My expertise includes managing Linux and Windows servers, firewalls, network, us
 - Open Source Technologies
 - Docker
 - Cloud Computing (AWS)
-- CI/CD
