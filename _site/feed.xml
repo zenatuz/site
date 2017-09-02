@@ -2,68 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Renato Batista</title>
-    <description>Nerd, System/Network Administrator</description>
-    <link>http://localhost:4000//</link>
-    <atom:link href="http://localhost:4000//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 02 Sep 2017 10:09:28 -0300</pubDate>
-    <lastBuildDate>Sat, 02 Sep 2017 10:09:28 -0300</lastBuildDate>
-    <generator>Jekyll v3.4.3</generator>
-    
-      <item>
-        <title>Trabalhando para UN</title>
-        <description>&lt;p&gt;Muita gente me pergunta como consegui este contrato com a UN (United Nations), como acompanhar vagas e tal. Então pra facilitar a vida de todo mundo resolvi escrever a respeito e assim centralizar essas informações e alguns links úteis.&lt;/p&gt;
-
-&lt;p&gt;A UN é uma instituição gigante, e como tal, possui várias departamentos menores, se é que posso chamar assim, que compõem a mesma. A minha experiência até hoje foi trabalhando para a UNDP, mas tenho amigos que trabalham ou já trabalharam para outros departamentos e me disseram que a experiência foi parecida.&lt;/p&gt;
-
-&lt;p&gt;O processo seletivo pode variar de acordo com a necessidade de cada instituição, o nível e o tipo de contrato. Mas em geral se tem as seguintes etapas:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Aplicação – Onde você se aplica para a vaga, em alguns casos preenchendo um extenso documento onde se detalhará sua experiência profissional, em outros casos o documento não é exigido, mas sim um CV também bem detalhado ou um cadastro em algum site. É bom reservar alguns dias para finalizar e não deixar para última hora.&lt;/li&gt;
-  &lt;li&gt;Short List – Aqui é onde acontece o primeiro contato, caso seu cadastro seja aprovado no primeiro filtro, onde serão eliminados os menos competentes ou menos experientes. Vale notar que este contato pode demorar bastante, já recebi resposta negativa a algumas aplicações depois de 6 meses da aplicação em si, então é importante ter paciência.&lt;/li&gt;
-  &lt;li&gt;Entrevista – Nessa etapa haverá um contato agendando uma ou mais entrevistas, dependendo da função e nível exigido pode-se ter 2 ou mais cada uma com departamentos diferentes, por exemplo, HR, Técnica ou outros.&lt;/li&gt;
-  &lt;li&gt;Contratação – Nessa etapa, posso dizer como foi baseado na minha experiência, onde o meu contrato foi um LoA ou Letter Of Agreement, onde recebi uma carta mostrando a intenção de contratação da UNDP assim como o Tribunal para onde seria designado. Uma vez assinado e efetuados todas as burocracias com o HR, assim então será iniciado o seu contrato com a instituição.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Boa parte, se não todas as posições, são com prazo determinado, normalmente o primeiro contrato pode ser de alguns meses a 2 ou 3 anos, mas boa parte será no intervalo de alguns meses a 1 ano, podendo ser extendido ou não, pois depende de muitos fatores como o projeto para o qual irá trabalhar, doações, etc. Outra informação não menos importante é que normalmente não há a informação de salário no anúncio da vaga, com raras excessões, sendo apresentado o salário já na fase final do processo seletivo.&lt;/p&gt;
-
-&lt;p&gt;Agora deixo alguns sites onde pode-se acompanhar vagas. Recomendo acompanhar via feed, pois são muitas vagas anunciadas e fica difícil acompanhar tudo isso direto no site. Uma boa estratégia é assinar o feed e verificar uma vez por semana. 😉&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Global – http://unjobs.org/&lt;/li&gt;
-  &lt;li&gt;Global – http://www.unjobmonster.com/&lt;/li&gt;
-  &lt;li&gt;Global – http://jobs.undp.org/&lt;/li&gt;
-  &lt;li&gt;Global – https://careers.un.org/lbw/Home.aspx&lt;/li&gt;
-  &lt;li&gt;Timor Leste – http://www.unofficialeasttimor.com/&lt;/li&gt;
-  &lt;li&gt;Timor Leste – https://vagaservisutimorleste.wordpress.com/&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Posições em TI normalmente podem ser anunciadas com os &lt;strong&gt;seguintes títulos&lt;/strong&gt;:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;INFORMATION SYSTEMS OFFICER&lt;/li&gt;
-  &lt;li&gt;INFORMATICS ASSISTANT (SYSTEMS DEVELOPER)&lt;/li&gt;
-  &lt;li&gt;SENIOR ASSISTANT (MANAGEMENT INFORMATION SYSTEM)&lt;/li&gt;
-  &lt;li&gt;ICT SUPPORT CLERK&lt;/li&gt;
-  &lt;li&gt;HEAD OF ICT&lt;/li&gt;
-  &lt;li&gt;INTRANET CONTENT MANAGEMENT OFFICER&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Estas não são os únicos títulos, poderão haver variações desses ou mesmo ainda outros diferentes de acordo com a função anunciada.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;“O sucesso nasce do querer, da determinação e persistência em se chegar a um objetivo. Mesmo não atingindo o alvo, quem busca e vence obstáculos, no mínimo fará coisas admiráveis.”&lt;/em&gt; – José de Alencar&lt;/p&gt;
-
-&lt;p&gt;Então é isso, sucesso!&lt;/p&gt;
-</description>
-        <pubDate>Mon, 27 Apr 2015 07:18:00 -0300</pubDate>
-        <link>http://localhost:4000//2015/trabalhando-para-un/</link>
-        <guid isPermaLink="true">http://localhost:4000//2015/trabalhando-para-un/</guid>
-        
-        <category>carreira</category>
-        
-        
-        <category>carreira</category>
-        
-      </item>
+    <description>IT guy, coffee lover, nerd, gamer, husband.
+☕💻🎮🎧📷</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sat, 02 Sep 2017 10:58:08 -0300</pubDate>
+    <lastBuildDate>Sat, 02 Sep 2017 10:58:08 -0300</lastBuildDate>
+    <generator>Jekyll v3.5.2</generator>
     
       <item>
         <title>Trabalhando para UN</title>
@@ -111,8 +56,8 @@
 &lt;p&gt;Então é isso, sucesso!&lt;/p&gt;
 </description>
         <pubDate>Mon, 27 Apr 2015 00:00:00 -0300</pubDate>
-        <link>http://localhost:4000//blog/27-04-2015-trabalhando-para-un.html</link>
-        <guid isPermaLink="true">http://localhost:4000//blog/27-04-2015-trabalhando-para-un.html</guid>
+        <link>http://localhost:4000/blog/27-04-2015-trabalhando-para-un.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/27-04-2015-trabalhando-para-un.html</guid>
         
         <category>carreira</category>
         
@@ -177,8 +122,8 @@ Internet TT&lt;/p&gt;
 &lt;p&gt;Cansei, existem mais assuntos, mas estes são os que considero principais pra viver tranquilo por aqui. Aos poucos vou alimentando melhor com mais fotos e exemplos.&lt;/p&gt;
 </description>
         <pubDate>Wed, 18 Mar 2015 00:00:00 -0300</pubDate>
-        <link>http://localhost:4000//blog/18-03-2015-vivendo-em-timor-leste.html</link>
-        <guid isPermaLink="true">http://localhost:4000//blog/18-03-2015-vivendo-em-timor-leste.html</guid>
+        <link>http://localhost:4000/blog/18-03-2015-vivendo-em-timor-leste.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/18-03-2015-vivendo-em-timor-leste.html</guid>
         
         <category>carreira</category>
         
@@ -269,8 +214,8 @@ Chegando em casa, mais que depressa procurei o pessoal da UNDP em Dili, na esper
 Encontrei com meu novo chefe, providenciei um chip (simcard) pro meu celular e pude então me dirigir para o hotel em Dili. É uma viagem bacana, mas muito cansativa por não haver voos diretos e tantas esperas. Mas finalmente cá estou. No próximo post falarei sobre meus primeiros dias aqui e as mancadas de um recém-chegado. 🙂&lt;/p&gt;
 </description>
         <pubDate>Sun, 08 Jun 2014 00:00:00 -0300</pubDate>
-        <link>http://localhost:4000//blog/08-06-2014-a-viagem.html</link>
-        <guid isPermaLink="true">http://localhost:4000//blog/08-06-2014-a-viagem.html</guid>
+        <link>http://localhost:4000/blog/08-06-2014-a-viagem.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/08-06-2014-a-viagem.html</guid>
         
         <category>carreira</category>
         
@@ -317,8 +262,8 @@ Aprovação&lt;/p&gt;
 &lt;p&gt;#timorleste #partiu&lt;/p&gt;
 </description>
         <pubDate>Sun, 30 Mar 2014 00:00:00 -0300</pubDate>
-        <link>http://localhost:4000//blog/30-03-2014-o-inicio.html</link>
-        <guid isPermaLink="true">http://localhost:4000//blog/30-03-2014-o-inicio.html</guid>
+        <link>http://localhost:4000/blog/30-03-2014-o-inicio.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/30-03-2014-o-inicio.html</guid>
         
         <category>carreira</category>
         
