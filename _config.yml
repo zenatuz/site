@@ -1,0 +1,43 @@
+# Site settings
+title: Renato Batista
+description: 'Nerd, System/Network Administrator'
+url: 'http://renatobatista.com.br'
+baseurl: '/'
+google_analytics: 'UA-2741149-6'
+disqus_shortname: 'zenatuz'
+
+author:
+  name: 'Renato Batista'
+  email: contato@renatobatista.com.br
+  twitter_username: zenatuz
+  github_username:  zenatuz
+  linkedin_username:  zenatuz
+  instagram_username: zenatuz
+  facebook_username:
+
+
+defaults:
+  -
+    scope:
+      path: ''
+      type: 'posts'
+    values:
+        layout: 'post'
+
+# Build settings
+destination: _site
+paginate: 5
+permalink: /:year/:title/
+markdown: kramdown
+highlighter: rouge
+
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
+
+#gem: [jekyll-admin]
+gems: ['jekyll-paginate']
+
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
