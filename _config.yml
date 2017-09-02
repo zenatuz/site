@@ -3,10 +3,10 @@ title: Renato Batista
 description: 'IT guy, coffee lover, nerd, gamer, husband. 
 
 ☕💻🎮🎧📷'
-url: 'http://joshgerdes.com/jekyll-uno'
+url: 'http://renatobatista.com.br'
 baseurl: ''
-# google_analytics: 'UA-XXXXXX-X'
-# disqus_shortname: 'your-disqus-name'
+google_analytics: 'UA-2741149-6'
+disqus_shortname: 'zenatuz'
 
 author:
   name: 'Renato Batista'
