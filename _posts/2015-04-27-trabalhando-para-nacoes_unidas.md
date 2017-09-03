@@ -1,5 +1,5 @@
 ---
-title:  "Trabalhando para UN"
+title:  'Trabalhando para as Nações Unidas'
 layout: post
 permalink: /blog/:day-:month-:year-:title.html
 tags: [carreira, timor-leste, asia]
@@ -21,12 +21,12 @@ Boa parte, se não todas as posições, são com prazo determinado, normalmente 
 
 Agora deixo alguns sites onde pode-se acompanhar vagas. Recomendo acompanhar via feed, pois são muitas vagas anunciadas e fica difícil acompanhar tudo isso direto no site. Uma boa estratégia é assinar o feed e verificar uma vez por semana. 😉
 
-- Global – http://unjobs.org/
-- Global – http://www.unjobmonster.com/
-- Global – http://jobs.undp.org/
-- Global – https://careers.un.org/lbw/Home.aspx
-- Timor Leste – http://www.unofficialeasttimor.com/
-- Timor Leste – https://vagaservisutimorleste.wordpress.com/
+- Global – <http://unjobs.org/>
+- Global – <http://www.unjobmonster.com/>
+- Global – <http://jobs.undp.org/>
+- Global – <https://careers.un.org/lbw/Home.aspx>
+- Timor Leste – <http://www.unofficialeasttimor.com/>
+- Timor Leste – <https://vagaservisutimorleste.wordpress.com/>
 
 Posições em TI normalmente podem ser anunciadas com os **seguintes títulos**:
 
