@@ -9,20 +9,20 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "pt-BR"
-title                    : "2Geeks"
+title                    : "Renato Batista"
 title_separator          : "-"
-name                     : "2 Geeks.top"
-description              : "An amazing website of 2 geeks."
-url                      : https://2geeks.top # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Renato Batista"
+description              : "An amazing website."
+url                      : https://renatobatista.com.br # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "2geekstop/2geekstop.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "zenatuz/zenatuz.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
   disqus:
-    shortname            : "2geekstop" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : "renatobatista-com-br" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -82,9 +82,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "2 Geeks"
+  name             : "Renato Batista"
   avatar           : "/assets/images/authors/authors_Photo_by_Aaron_Burden-on_Unsplash_64849_600x600.jpg"  # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "O espaço, a fronteira final. Estas são as viagens de 2 geeks, audaciosamente indo, onde nenhum homem jamais esteve."
+  bio              : "O espaço, a fronteira final. Estas são as viagens do Renato, audaciosamente indo, onde nenhum homem jamais esteve."
   location         : 
 #   email            :
   uri              : "/feed.xml"
