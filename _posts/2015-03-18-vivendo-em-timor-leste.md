@@ -1,9 +1,21 @@
 ---
 title: 'Vivendo em Timor Leste'
-layout: post
-permalink: /blog/:day-:month-:year-:title.html
-tags: [carreira, timor-leste, asia]
-comments: true
+layout: single
+permalink: /blog/:year-:month-:day-:title
+categories: 
+    - Carreira
+    - TimorLeste
+    - Asia
+classes: 
+    - wide
+author: Renato Batista
+excerpt: "O dia-a-dia em Timor"
+header:
+    overlay_image: /assets/images/splash/blog.jpg
+    teaser: /assets/images/splash/blog.jpg
+    overlay_filter: 0.5
+    caption: "Photo by Andrew Neel [**Unsplash**](https://unsplash.com/photos/cckf4TsHAuw)"
+    image_description: Photo by Andrew Neel on Unsplash
 ---
 
 Viver em Timor Leste, especialmente na capital, Dili, não é uma tarefa difícil, mas é necessário aprender a ser espartano em muitos aspectos. Depois de quase 1 ano por aqui posso falar um pouco sobre como tem sido minha adaptação por aqui por tópicos que considero essenciais.

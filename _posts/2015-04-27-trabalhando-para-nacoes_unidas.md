@@ -1,9 +1,21 @@
 ---
 title:  'Trabalhando para as Nações Unidas'
-layout: post
-permalink: /blog/:day-:month-:year-:title.html
-tags: [carreira, timor-leste, asia]
-comments: true
+layout: single
+permalink: /blog/:year-:month-:day-:title
+categories: 
+    - Carreira
+    - TimorLeste
+    - Asia
+classes: 
+    - wide
+author: Renato Batista
+excerpt: ""
+header:
+    overlay_image: /assets/images/splash/blog.jpg
+    teaser: /assets/images/splash/blog.jpg
+    overlay_filter: 0.5
+    caption: "Photo by Andrew Neel [**Unsplash**](https://unsplash.com/photos/cckf4TsHAuw)"
+    image_description: Photo by Andrew Neel on Unsplash
 ---
 
 Muita gente me pergunta como consegui este contrato com a UN (United Nations), como acompanhar vagas e tal. Então pra facilitar a vida de todo mundo resolvi escrever a respeito e assim centralizar essas informações e alguns links úteis.
