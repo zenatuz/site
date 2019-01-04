@@ -1,0 +1,10 @@
+# main links
+main:
+  - title: "Início"
+    url:  /
+  - title: "Artigos"
+    url: /artigos
+  #- title: "RSS"
+  #  url: /feed
+  - title: "Sobre"
+    url: /sobre
