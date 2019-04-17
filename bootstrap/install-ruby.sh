@@ -10,4 +10,4 @@
  then gem install $@
  fi
 
- rvm cleanup all
+rvm cleanup all
