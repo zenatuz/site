@@ -1,5 +1,8 @@
 #!/usr/bin/env bash
 sudo yum -y install git
+firewall-cmd --add-port=4000/tcp
+firewall-cmd --reload
+
 gem install jekyll
 
 cd /vagrant 
