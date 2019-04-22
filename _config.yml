@@ -9,12 +9,13 @@ theme: minimal-mistakes-jekyll
 minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
+# host                     : 0.0.0.0
 locale                   : "pt-BR"
 title                    : "Renato Batista"
 title_separator          : "-"
 name                     : "Renato Batista"
 description              : "An amazing website."
-url                      : https://renatobatista.com.br # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : http://renatobatista.com.br # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "zenatuz/zenatuz.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
