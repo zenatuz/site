@@ -8,7 +8,7 @@ Jekyll é desenvolvido em ruby
     - bundler
     - jekyll
 
-Para instalar o Ruby no Subsistema Linux no Windows siga o link: https://gorails.com/setup/windows/10#subsystem
+Para instalar o Ruby no Subsistema Linux no Windows 10, siga o link: https://gorails.com/setup/windows/10#subsystem
 
 # Iniciando o Jekyll
 
@@ -19,9 +19,9 @@ Para instalar o Ruby no Subsistema Linux no Windows siga o link: https://gorails
 - Inicie o serviço: 
     - ```bundle exec jekyll build```
     - ```bundle exec jekyll serve --watch```
-- Abra o navegador em: ```http://localhost:4000```
+- Abra o navegador em: [http://localhost:4000](http://localhost:4000)
 
-Veja o site em execução na url: [renatobatista.com.br/sobre](https://renatobatista.com.br/sobre)
+Este site é publicado usando o githubpages no endereço: [renatobatista.com.br/sobre](https://renatobatista.com.br/sobre)
 
 ## Autor
 * [Renato Batista](https://renatobatista.com.br)
