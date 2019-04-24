@@ -2,8 +2,8 @@
 Blog criado em Jekyll baseado no tema [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/).
 
 # Requisitos
-Jekyll é desenvolvido em ruby
-- Ruby
+Jekyll é desenvolvido em ruby, logo além do ruby v2 ou superior, estas gems são necessárias.
+
 - Gems:
     - bundler
     - jekyll
