@@ -1,9 +1,27 @@
 # Jekyll blog
 Blog criado em Jekyll baseado no tema [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/).
 
+# Requisitos
+Jekyll é desenvolvido em ruby
+- Ruby
+- Gems:
+    - bundler
+    - jekyll
 
+Para instalar o Ruby no Subsistema Linux no Windows siga o link: https://gorails.com/setup/windows/10#subsystem
 
-Veja detalhes em [renatobatista.com.br/sobre](https://renatobatista.com.br/sobre)
+# Iniciando o Jekyll
+
+- Clone o projeto
+- Entre no diretório do projeto: ```cd zenatuz.github.io```
+- Mude para a branch de desenvolvimento: ```git checkout site2019```
+- Instale as gems: ```bundle install```
+- Inicie o serviço: 
+    - ```bundle exec jekyll build```
+    - ```bundle exec jekyll serve --watch```
+- Abra o navegador em: ```http://localhost:4000```
+
+Veja o site em execução na url: [renatobatista.com.br/sobre](https://renatobatista.com.br/sobre)
 
 ## Autor
 * [Renato Batista](https://renatobatista.com.br)
