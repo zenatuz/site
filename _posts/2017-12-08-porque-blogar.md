@@ -18,7 +18,7 @@ header:
     image_description: Photo by Andrew Neel on Unsplash
 ---
 # Sobre o porque de se 'blogar'
-Vamos lá, blogar é interessante por uma série de motivos, seja para divulgar conhecimento, expor ideías, por isso, por aquilo, etc. No meu caso eu resolvi blogar para documentar meu aprendizado em uma série de assuntos que quero/preciso estudar. Assim, eu consigo aliar o aprendizado com a rotina de escrever um blog, meu intuito é puro e simplesmente esse.
+Blogar pode ser interessante por uma série de motivos, seja para divulgar conhecimento, expor ideías, por isso, por aquilo, etc. No meu caso eu resolvi blogar para documentar meu aprendizado em uma série de assuntos que quero/preciso estudar. Assim, eu consigo aliar o aprendizado com a rotina de escrever um blog, meu intuito é puro e simplesmente esse.
 
 # Mas e aí, o que você vai estudar?
 Agora entrou um tópico interessante, pra quem não me conhece, uma rápida introdução antes de continuar.
