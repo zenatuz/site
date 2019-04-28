@@ -11,7 +11,7 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 # Site Settings
 # host                     : 0.0.0.0
 locale                   : "pt-BR"
-title                    : "Renato Batista"
+title                    : ""
 title_separator          : "-"
 name                     : "Renato Batista"
 description              : "An amazing website."
@@ -86,7 +86,7 @@ analytics:
 author:
   name             : "Renato Batista"
   avatar           : "/assets/images/authors/authors_Photo_by_Aaron_Burden-on_Unsplash_64849_600x600.jpg"  # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "O espaço, a fronteira final. Estas são as viagens do Renato, audaciosamente indo, onde nenhum homem jamais esteve."
+  bio              : "O espaço, a fronteira final. Estas são as postagens do Renato, audaciosamente indo, onde nenhum homem jamais esteve."
   location         : 
 #   email            :
   uri              : "/feed.xml"
