@@ -1,11 +1,12 @@
 ---
-permalink: index.html
+permalink: index
 layout: splash
+title: "Um curioso"
 classes:
     - landing
     - grid
 # Texto que vai na home, sobre a foto (splash)
-excerpt: "O espaço, a fronteira final. Estas são as viagens do Renato, audaciosamente indo, onde nenhum homem jamais esteve."
+excerpt: "O espaço, a fronteira final. Estas são as anotações de um curioso, audaciosamente indo, onde nenhum homem jamais esteve."
 header:
     overlay_image: /assets/images/splash/index_bg.jpg
     overlay_filter: 0.5

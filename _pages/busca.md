@@ -1,7 +1,7 @@
 ---
 title: "Busca"
 layout: search
-permalink: busca.html
+permalink: busca
 author_profile: false
 comments: false
 ---

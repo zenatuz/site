@@ -1,7 +1,7 @@
 ---
 title:  "Artigos"
 layout: archive
-permalink: artigos.html
+permalink: artigos
 author_profile: true
 classes:
     - landing
@@ -11,7 +11,7 @@ header:
     overlay_filter: 0.5
     caption: "Photo by Matthew Guay [**Unsplash**](https://unsplash.com/photos/Q7wDdmgCBFg)"
     image_description: Photo by Matthew Guay on Unsplash
-    cta_label: "Assine o feed"
+    cta_label: "Assine nosso feed"
     cta_url: "/feed.xml"
     
 ---

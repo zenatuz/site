@@ -1,10 +1,15 @@
-_site/
-.sass-cache/
-.jekyll-metadata
+*.gem
+*.sublime-project
+*.sublime-workspace
+.bundle
 .DS_Store
-<<<<<<< HEAD
-=======
-.vagrant
+.jekyll-metadata
+.sass-cache
+_asset_bundler_cache
+_site
+codekit-config.json
+example/_site
 Gemfile.lock
-*.log
->>>>>>> site2019
+node_modules
+npm-debug.log*
+.editorconfig
