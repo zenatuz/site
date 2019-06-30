@@ -5,13 +5,13 @@ permalink: artigos
 author_profile: true
 classes:
     - landing
-excerpt: "Fique atualizado, os últimos artigos atualizados estão aqui!"
+excerpt: "Fique por dentro, os últimos artigos atualizados estão aqui!"
 header:
     overlay_image: /assets/images/splash/articles_bg.jpg
     overlay_filter: 0.5
     caption: "Photo by Matthew Guay [**Unsplash**](https://unsplash.com/photos/Q7wDdmgCBFg)"
     image_description: Photo by Matthew Guay on Unsplash
-    cta_label: "Assine nosso feed"
+    cta_label: "Assine o feed"
     cta_url: "/feed.xml"
     
 ---
