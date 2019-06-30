@@ -107,12 +107,15 @@ analytics:
 # Site Author
 author:
   name             : "Renato Batista"
-  avatar           : /assets/images/authors/authors_Photo_by_Aaron_Burden-on_Unsplash_64849_600x600.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "O espaço, a fronteira final. Estas são as anotações de um curioso, audaciosamente indo, onde nenhum homem jamais esteve."
-  location         : "Somewhere in the world!"
-  uri              : "/feed.xml"
+  avatar           : /assets/images/authors/renato_batista.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Amante de tecnologia, trabalho com infraestrutura, cloud, containers, amante de café, rpg e nerd.☕💻🎮📷"
+  location         : "Goiânia - Brasil"
+  #uri              : "/feed.xml"
   #email            :
   links:
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/zenatuz"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: mailto:your.name@email.com
@@ -121,16 +124,17 @@ author:
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://twitter.com/zenatuz"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/zenatuz"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://instagram.com/zenatuz"
+    
 
 # Site Footer
 footer:
