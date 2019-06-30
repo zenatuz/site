@@ -5,7 +5,7 @@ permalink: artigos
 author_profile: true
 classes:
     - landing
-excerpt: "Fique de olho nos últimos artigos, os últimos artigos atualizados estão aqui!"
+excerpt: "Fique atualizado, os últimos artigos atualizados estão aqui!"
 header:
     overlay_image: /assets/images/splash/articles_bg.jpg
     overlay_filter: 0.5

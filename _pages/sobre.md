@@ -1,8 +1,8 @@
 ---
-title:  "Sobre os autores"
+title:  "Sobre o autor"
 layout: splash
 permalink: sobre
-excerpt: "Conheça os nerd que criou o blog, entre e fique a vontade."
+excerpt: "Conheça o curioso que criou o site, entre e fique a vontade."
 header:
     overlay_image: /assets/images/splash/authors_bg.jpg
     overlay_filter: 0.5
@@ -12,4 +12,4 @@ header:
 # Sobre mim
 
 ### ![Renato Batista](/assets/images/authors/renato_batista_120x120.jpg) Renato Batista
-Amante de tecnologia e nerd, hoje trabalho com infraestrutura, cloud, containers, amante de café e nerd.☕💻🎮📷 
+Amante de tecnologia, trabalho com infraestrutura, cloud, containers, amante de café, rpg e nerd.☕💻🎮📷 
