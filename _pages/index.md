@@ -1,7 +1,7 @@
 ---
 permalink: index
 layout: splash
-title: "Um curioso"
+title: "Um curioso mundo a fora"
 classes:
     - landing
     - grid
