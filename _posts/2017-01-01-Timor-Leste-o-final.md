@@ -47,7 +47,7 @@ Ledo engano meu caro gafanhoto, aproveitei e muito, viajei e conheci países, cu
  2. Levo oportunidades com o incrível 'networking' que desenvolvi e ainda mantenho, dos vários profissionais que conheci, brasileiros e de outras nações.
  3. Levo amizades espalhadas pelo mundo, literalmente, tenho amigos em todos os continentes. :D
 
-Como diz a música, **abra suas asas**. *Queen, Spread your wings* - https://www.youtube.com/watch?v=uyd6OLyhPJo
+Como diz a música do **Queen**, **abra suas asas**. [Spread your wings](https://www.youtube.com/watch?v=uyd6OLyhPJo)
 
 > Spread your wings and fly away 
 > Fly away far away 
