@@ -13,6 +13,8 @@ header:
 # Sobre mim
 Nunca fui muito bom pra falar sobre a minha própria pessoa, mas tenho aprendido de um tempo pra cá, então vamos lá.
 
-A esqueda vc encontra um resumo em uma frase, mas como nada é tão simples, eu não me resumo a apenas isso. Criei esse site como um repositório de assuntos interessantes, sobre carreira, vida, mudanças, etc. É sobre isso que quero escrever, não como uma obrigação, mas algo que me dê alegria, então não espere um site sempre atualizado, ou com todo o meu dia a dia, fique a vontade e me siga no [**instagram**](https://instagram.com/zenatuz) se quiser me acompanhar um pouco mais de perto e com mais detalhes. ;)
+Um resumo em uma frase, "**Amante de tecnologia, trabalho com infraestrutura, cloud, containers, amante de café, rpg e nerd**", mas como nada é tão simples, eu não me resumo a apenas isso. 
 
-Se quiser conhecer meu lado profissional, acesse meu [**linkedin**](https://linkedin.com/in/zenatuz), que tem tudo detalhado lá. 
+Criei esse site como um repositório de assuntos interessantes, sobre carreira, vida, mudanças, etc. É sobre isso que quero escrever, não como uma obrigação, mas algo que me dê alegria, então não espere um site sempre atualizado, ou com todo o meu dia a dia, fique a vontade e me siga no [**instagram**](https://instagram.com/zenatuz) se quiser me acompanhar um pouco mais de perto e com mais detalhes. ;)
+
+Para conhecer meu lado profissional, acesse meu [**linkedin**](https://linkedin.com/in/zenatuz), que tem tudo detalhado lá. 
