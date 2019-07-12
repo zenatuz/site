@@ -237,7 +237,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
-  - jekyll-crosspost-to-medium
+  #- jekyll-crosspost-to-medium
 
 # mimic GitHub Pages with --safe
 whitelist:
