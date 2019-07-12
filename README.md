@@ -29,5 +29,5 @@ Renato Batista
 - Site publicado em: [renatobatista.com.br](https://renatobatista.com.br)
 
 ## Status and License
-[![Codeship Status for zenatuz/zenatuz.github.io](https://app.codeship.com/projects/422c68e0-ca4e-0136-da0e-06bc770ab655/status?branch=master)](https://app.codeship.com/projects/315163)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/501815b2-6d41-4287-9b4b-feb7ccfb3b8b/deploy-status)](https://app.netlify.com/sites/stupefied-noether-79f45f/deploys)
 [![GitHub license](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/LICENSE.txt)
