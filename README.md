@@ -28,7 +28,6 @@ Jekyll é desenvolvido em ruby, logo além do ruby (v2 ou superior), estas gems 
 Renato Batista
 - Site publicado em: [renatobatista.com.br](https://renatobatista.com.br)
 
----
-
-[![GitHub license](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/LICENSE.txt)
+## Status and License
 [![Codeship Status for zenatuz/zenatuz.github.io](https://app.codeship.com/projects/422c68e0-ca4e-0136-da0e-06bc770ab655/status?branch=master)](https://app.codeship.com/projects/315163)
+[![GitHub license](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/LICENSE.txt)
