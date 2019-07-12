@@ -16,7 +16,9 @@ header:
     overlay_filter: 0.5
     caption: "Photo by Andrew Neel [**Unsplash**](https://unsplash.com/photos/cckf4TsHAuw)"
     image_description: Photo by Andrew Neel on Unsplash
+crosspost_to_medium: true
 ---
+
 # Sobre o porque de se 'blogar'
 Blogar é interessante por uma série de motivos, seja para divulgar conhecimento, expor ideías, por isso, por aquilo, etc. No meu caso eu resolvi blogar para documentar meu aprendizado em uma série de assuntos que quero/preciso estudar. Assim, eu consigo aliar o aprendizado com a rotina de escrever um blog, meu intuito é puro e simplesmente esse.
 
