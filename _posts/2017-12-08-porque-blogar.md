@@ -16,7 +16,6 @@ header:
     overlay_filter: 0.5
     caption: "Photo by Andrew Neel [**Unsplash**](https://unsplash.com/photos/cckf4TsHAuw)"
     image_description: Photo by Andrew Neel on Unsplash
-crosspost_to_medium: true
 ---
 
 # Sobre o porque de se 'blogar'
