@@ -15,6 +15,8 @@ Jekyll é desenvolvido em ruby, logo além do ruby (v2 ou superior), estas gems 
 
 ## Iniciando o Jekyll
 
+### Utilizando o WSL
+
 - Clone o projeto
 - Entre no diretório do projeto: ```cd zenatuz.github.io```
 - Instale as gems: ```bundle install```
@@ -22,7 +24,25 @@ Jekyll é desenvolvido em ruby, logo além do ruby (v2 ou superior), estas gems 
   - ```bundle exec jekyll build```
   - ```bundle exec jekyll serve --watch```
 - Abra o navegador em: [http://localhost:4000](http://localhost:4000)
+- Para interromper digite: ```CTRL + C```
 
+### Utilizando Vagrant
+> Nota: utilizei uma imagem limpa, então no processo de inicialização, será instalado o ruby, jekyll, depois as gems do projeto, portanto a execução pode levar entre 10~20 min.
+
+- Clone o projeto
+- Entre no diretório do projeto: ```cd zenatuz.github.io```
+- Inicie o Vagrant: ```vagrant up```
+- Abra o navegador em: [http://localhost:4000](http://localhost:4000)
+- Se precisar se conectar ao terminal da VM, digite: ```vagrant ssh```
+- Para interromper digite: ```vagrant halt```
+
+### Utilizando Docker
+
+- Clone o projeto
+- Entre no diretório do projeto: ```cd zenatuz.github.io```
+- Inicie o docker: ```docker-compose up```
+- Abra o navegador em: [http://localhost:4000](http://localhost:4000)
+- Para interromper digite: ```docker-compose down```
 
 ## Autor
 Renato Batista
