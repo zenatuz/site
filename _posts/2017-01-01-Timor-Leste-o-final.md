@@ -17,6 +17,7 @@ header:
     overlay_filter: 0.5
     caption: "Photo by Renato Batista: [**Instagram**](https://instagram.com/zenatuz)"
     image_description: Photo by Renato Batista
+comments: true
 ---
 
 

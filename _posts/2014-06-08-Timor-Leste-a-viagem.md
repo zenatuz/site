@@ -15,6 +15,7 @@ header:
     overlay_filter: 0.5
     caption: "Photo by Ross Parmly: [**Unsplash**](https://unsplash.com/photos/rf6ywHVkrlY)"
     image_description: Photo by Ross Parmly on Unsplash
+comments: true
 ---
 
 Como disse no post anterior, a viagem estava programada para um período bem curto, cerca de 25 dias após a notícia, então comecei a organizar as coisas para a mesma. Tenho que agradecer a minha esposa, Héricka, desde já pois me apoiou e tem me apoiado em cada etapa desse processo e consequentemente na minha organização para a viagem. Também meus agradecimentos a meu pai, pelo grande apoio.
