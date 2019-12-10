@@ -40,6 +40,7 @@ Recentemente, precisei subir alguns clusteres de k8s, e para tanto, criei alguns
 
 Esse primeiro playbook instala alguns requisitos e prepara o ambiente para a instalação do Kubernetes, dentre os requisitos, estão a **container-engine** (nesse exemplo: *Docker*)
 
+Playbook do Ansible: ```pre-req.yml```
 ```yml
 ---
 - hosts: all
@@ -136,6 +137,7 @@ Esse primeiro playbook instala alguns requisitos e prepara o ambiente para a ins
 
 Esse segundo playbook instala o Kubernetes em si.
 
+Playbook do Ansible: ```install.yml```
 ```yml
 ---
 - hosts: all
@@ -236,7 +238,8 @@ Esse segundo playbook instala o Kubernetes em si.
 Para executar os playbooks, crie um arquivo de inventário apontando os hosts onde fará a instalação, em seguida, digite o comando.
 
 ```shell
-ansible-playbook -i hosts.ini playbook.yml
+ansible-playbook -i hosts.ini pre-req.yml
+ansible-playbook -i hosts.ini install.yml
 ```
 
 Arquivo de inventário utilizado no exemplo: **(hosts.ini)**
