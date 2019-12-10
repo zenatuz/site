@@ -9,7 +9,7 @@ categories:
 classes: 
     - wide
 author: Renato Batista
-excerpt: "Primeiros passos com Kubernetes"
+excerpt: "Primeiros passos: Preparando o ambiente de forma automatizada com Ansible"
 header:
     overlay_image: /assets/images/splash/dan-kb-FNTEEZpNI5E-unsplash.jpg
     teaser: /assets/images/splash/dan-kb-FNTEEZpNI5E-unsplash.jpg
