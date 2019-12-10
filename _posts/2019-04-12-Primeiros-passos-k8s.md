@@ -42,6 +42,7 @@ Esse primeiro playbook instala alguns requisitos e prepara o ambiente para a ins
 
 Playbook do Ansible: ```pre-req.yml```
 ```yml
+# # pre-req.yml
 ---
 - hosts: all
   tasks:
@@ -139,6 +140,7 @@ Esse segundo playbook instala o Kubernetes em si.
 
 Playbook do Ansible: ```install.yml```
 ```yml
+# install.yml
 ---
 - hosts: all
   tasks:
