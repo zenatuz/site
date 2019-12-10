@@ -2,7 +2,7 @@
 title: 'Primeiros Passos no K8S'
 layout: single
 comments: 'true'
-date: 2019-12-02
+date: 2019-12-10
 permalink: /blog/:year-:month-:day-:title
 categories: 
     - Artigo
