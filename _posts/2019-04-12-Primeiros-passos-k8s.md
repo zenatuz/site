@@ -38,9 +38,20 @@ Recentemente, precisei subir alguns clusteres de k8s, e para tanto, criei alguns
 
 >Para o ambiente de laboratório, podemos utilizar o arquivo /etc/hosts. Em produção, é requisito um serviço DNS com todas as entradas necessárias.
 
+### Ambiente do Laboratório
+
+Neste cenário utilizei o seguinte ambiente: 
+- **Centos 8** como SO base;
+- **Hyper-V** como hypervisor;
+- **Ansible** como método de instalação/configuração;
+- **Kubernetes 1.16**.
+
+### Playbooks para instalação automatizada
+#### Pre requisitos
+
 Esse primeiro playbook instala alguns requisitos e prepara o ambiente para a instalação do Kubernetes, dentre os requisitos, estão a **container-engine** (nesse exemplo: *Docker*)
 
-Playbook do Ansible: **```pre-req.yml```**
+Playbook: **```pre-req.yml```**
 ```yml
 # Ansible Playbook: pre-req.yml
 ---
@@ -135,10 +146,11 @@ Playbook do Ansible: **```pre-req.yml```**
         enabled: yes
         state: started
 ```
+#### Instalação
 
 Esse segundo playbook instala o Kubernetes em si.
 
-Playbook do Ansible: **```install.yml```**
+Playbook: **```install.yml```**
 ```yml
 # Ansible Playbook: install.yml
 ---
@@ -237,18 +249,19 @@ Playbook do Ansible: **```install.yml```**
 
 ```
 
-Para executar os playbooks, crie um arquivo de inventário apontando os hosts onde fará a instalação, em seguida, digite o comando.
-
-```shell
-ansible-playbook -i hosts.ini pre-req.yml
-ansible-playbook -i hosts.ini install.yml
-```
+Para executar os playbooks, crie um arquivo de inventário apontando os hosts onde fará a instalação.
 
 Arquivo de inventário utilizado no exemplo: **(hosts.ini)**
 
 ```ini
 [k8s_template]
 192.168.45.216 ansible_user=root
+```
+Em seguida, execute os playbooks:
+
+```shell
+ansible-playbook -i hosts.ini pre-req.yml
+ansible-playbook -i hosts.ini install.yml
 ```
 
 Ao final, depois de executar os 2 playbooks, você terá um ambiente pronto para instalar o K8S utilizando o *kubeadm*.
