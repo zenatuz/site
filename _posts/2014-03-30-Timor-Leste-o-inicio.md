@@ -2,6 +2,7 @@
 title: 'Timor Leste: O Início'
 layout: single
 permalink: /blog/:year-:month-:day-:title
+comments: true
 tags: [carreira, timor-leste, asia]
 categories: 
     - Carreira
@@ -16,7 +17,6 @@ header:
     overlay_filter: 0.5
     caption: "Photo by Renato Batista"
     image_description: Photo by Renato Batista
-comments: true
 ---
 
 Como algumas pessoas já sabem, estou indo trabalhar para a ONU como Sysadmin em Timor Leste, iniciarei a jornada dia 21/05/2014.
