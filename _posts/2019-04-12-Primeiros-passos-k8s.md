@@ -20,14 +20,14 @@ comments: true
 ---
 
 # Primeiros passos com Kubernetes
-Se você chegou aqui de para-quedas, saiba que esta é uma série de artigo com uma abordagem simples para quem quer entrar nesse mundo do kubernetes, irei cobrir da instalação básica a componentes internos.
+Se você chegou aqui de para-quedas, saiba que esta é uma série de artigos com uma abordagem simples para quem quer entrar no mundo do Kubernetes (k8s), irei cobrir desde instalação básica a componentes internos, deploys, etc.
 
-> Nota: **Conhecimento em Sistemas, Redes, ferramentas como Ansible são requisitos, portanto não explicarei esses conceitos.**
+> Nota: **Conhecimento em Sistemas Operacionais, Redes, ferramentas como Ansible são requisitos, portanto não explicarei esses conceitos.**
 
 ## O que é Kubernetes
 A documentação oficial diz que:  *Kubernetes (K8s) é um produto Open Source utilizado para automatizar a implantação, o dimensionamento e o gerenciamento de aplicativos em contêiner.* 
 
-Na minha visão e tentando explicar para quem não conhece, digo isso: **É um orquestador de containers. Como orquestrador, ele é a camada que provê os recursos operacionais para o ambiente como rede, storage, load balancer, etc.**
+Na minha visão e tentando explicar para quem não conhece, digo isso: **É um orquestador de containers. Como orquestrador, ele é a camada que provê os recursos operacionais para o ambiente como rede, storage, load balancer, deploys, etc.**
 
 Para maiores detalhes, consulte [kubernetes.io/pt](https://kubernetes.io/pt/).
 
