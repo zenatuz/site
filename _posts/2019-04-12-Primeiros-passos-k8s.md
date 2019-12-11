@@ -34,9 +34,9 @@ Para maiores detalhes, consulte [kubernetes.io/pt](https://kubernetes.io/pt/).
 ## Preparando o ambiente
 Recentemente, precisei subir alguns clusteres de k8s, e para tanto, criei alguns playbooks ansible para me auxiliar no processo de instalar e configurar os hosts. Depois de instalado, criei um template da VM, e utilizei esse template para criar novas VMs.
 
-> Alguns requisitos de infra são necessários, como a resolução de nome (DNS). 
+> *Alguns requisitos de infra são necessários, como a resolução de nome (DNS).* 
 
->Para o ambiente de laboratório, podemos utilizar o arquivo /etc/hosts. Em produção, é requisito um serviço DNS com todas as entradas necessárias.
+> *Para o ambiente de laboratório, podemos utilizar o arquivo /etc/hosts. Em produção, é requisito um serviço DNS com todas as entradas necessárias.*
 
 ### Ambiente do Laboratório
 
@@ -49,10 +49,14 @@ Neste cenário utilizei o seguinte ambiente:
 ### Playbooks para instalação automatizada
 #### Pre requisitos
 
-Esse primeiro playbook instala alguns requisitos e prepara o ambiente para a instalação do Kubernetes, dentre os requisitos, estão a **container-engine** (nesse exemplo: *Docker*)
+A fim de facilitar o processo, criei 2 playbooks para ansible que podem ser vistos abaixo, ou baixados de: [github.com/zenatuz/k8s](https://github.com/zenatuz/k8s).
+
+> Por algum motivo que desconheço, o Jekyll não está exibindo as variáveis do Ansible, portanto, baixe o código do github ao invés de copiar daqui.
+
+O primeiro playbook instala alguns requisitos e prepara o ambiente para a instalação do Kubernetes, dentre os requisitos, estão a **container-engine** (nesse exemplo: *Docker*)
 
 Playbook: **```pre-req.yml```**
-```yml
+```yaml
 # Ansible Playbook: pre-req.yml
 ---
 - hosts: all
@@ -65,7 +69,7 @@ Playbook: **```pre-req.yml```**
     
     - name: Ensure packages are installed
       yum: 
-        name: "{{ packages }}" 
+        name: '{{ packages }}'
         update_cache: yes 
         state: latest
       vars:
@@ -148,7 +152,7 @@ Playbook: **```pre-req.yml```**
 ```
 #### Instalação
 
-Esse segundo playbook instala o Kubernetes em si.
+O segundo playbook instala o Kubernetes em si.
 
 Playbook: **```install.yml```**
 ```yml
