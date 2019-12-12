@@ -31,6 +31,10 @@ Na minha visão e tentando explicar para quem não conhece, digo isso: **É um o
 
 Para maiores detalhes, consulte [kubernetes.io/pt](https://kubernetes.io/pt/).
 
+> **Update** - O pessoal do hispsters.tech fez um podcast recente sobre kubernetes, bom proveito. [Kubernetes – Hipsters #177](https://hipsters.tech/kubernetes-hipsters-177/)
+
+<iframe width="320" height="30" src="https://hipsters.tech/?powerpress_embed=2799-podcast&amp;powerpress_player=mediaelement-audio" frameborder="0" scrolling="no"></iframe>
+
 ## Preparando o ambiente
 Recentemente, precisei subir alguns clusteres de k8s, e para tanto, criei alguns playbooks ansible para me auxiliar no processo de instalar e configurar os hosts. Depois de instalado, criei um template da VM, e utilizei esse template para criar novas VMs.
 
