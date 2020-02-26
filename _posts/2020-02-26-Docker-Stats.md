@@ -17,6 +17,7 @@ header:
     caption: "Photo by Frank Mckenna [**Unsplash**](https://unsplash.com/collections/4839205/docker-illustrations)"
     image_description: Photo by Frank Mckenna
 comments: true
+render_with_liquid: false
 ---
 
 # Docker Containers
