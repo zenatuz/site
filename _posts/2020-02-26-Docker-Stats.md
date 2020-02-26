@@ -27,9 +27,9 @@ Com docker não seria diferente, tanto que a própria CLI já disponibiliza coma
 ## Docker Info
 O ``docker info``  exibe informações gerais do sistema, como detalhes do host, kernel, versão do cliente e servidor, etc.
 
-Detalhes podem ser visto na documentação oficial: https://docs.docker.com/engine/reference/commandline/info/
+Detalhes podem ser visto na documentação oficial: [https://docs.docker.com/engine/reference/commandline/info/]
 
-```
+```bash
 $ docker info
 Client:
  Debug Mode: false
@@ -87,8 +87,8 @@ Server:
 O ``docker ps`` exibe os containers que foram executados ou estão em execução, alguns filtros comuns são:
 
 ### Containers em execução: ``docker ps``
-```
-]$ docker ps
+```bash
+$ docker ps
 CONTAINER ID        IMAGE               COMMAND                  CREATED             STATUS              PORTS                    NAMES
 c5a675bae310        dotnetapp:latest    "/bin/sh -c 'set ASP…"   44 minutes ago      Up 44 minutes       0.0.0.0:85->80/tcp       goofy_ptolemy
 43e87fb642cd        dotnetapp:latest    "/bin/sh -c 'set ASP…"   44 minutes ago      Up 44 minutes       0.0.0.0:84->80/tcp       quirky_kare
@@ -100,7 +100,7 @@ c4c270bd00ec        dotnetapp:latest    "/bin/sh -c 'set ASP…"   44 minutes ag
 
 ### Todos os containers, inclusive os parados: ``docker ps -a``
 
-```
+```bash
 $ docker ps -a
 CONTAINER ID        IMAGE               COMMAND                  CREATED             STATUS                                PORTS                    NAMES
 65a263e3ec8a        dotnetapp:latest    "/bin/sh -c 'set ASP…"   4 seconds ago       Up 3 seconds                          0.0.0.0:84->80/tcp       hopeful_ardinghelli
@@ -116,7 +116,7 @@ Existem situações que filtros nos ajudam muito para identificar informações 
 
 No exemplo abaixo, eu utilizei a opção ``--format`` para me exibir o Container ID, a Imagem e o tempo de execução dos containers:
 
-```
+```bash
 $ docker ps --format "table {{.ID}}\t{{.Image}}\t{{.RunningFor}}"
 CONTAINER ID        IMAGE               CREATED
 c5a675bae310        dotnetapp:latest    11 minutes ago
@@ -128,14 +128,14 @@ c4c270bd00ec        dotnetapp:latest    11 minutes ago
 ```
 
 ### Documentação oficial:
-https://docs.docker.com/engine/reference/commandline/ps/#formatting
+[https://docs.docker.com/engine/reference/commandline/ps/#formatting]
 
 ## Docker Stats
 O ``docker stats`` por sua vez, mostra consumo de recurso de cada container. 
 
 > *Nota: Um parâmetro interessante é o ``--no-stream`` que exibe o consumo atual no momento da execução, se o parâmetro não for fornecido, ele é atulizado em tempo real.*
 
-```
+```bash
 $ docker stats --no-stream
 CONTAINER ID        NAME                     CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
 c5a675bae310        goofy_ptolemy            0.27%               240.3MiB / 7.503GiB   3.13%               63.1MB / 1.07MB     0B / 0B             0
@@ -149,7 +149,7 @@ c4c270bd00ec        stoic_spence             1.18%               180.2MiB / 7.50
 Neste exemplo a seguir, eu consigo observar alguns valores e remover outros. Utilizando os parâmetros 
 > ``docker stats --no-stream --format "table {{.Container}}\t{{.CPUPerc}}\t{{.MemPerc}}\t{{.NetIO}}\t{{.BlockIO}}"``
 
-```
+```bash
 $ docker stats --no-stream --format "table {{.Container}}\t{{.CPUPerc}}\t{{.MemPerc}}\t{{.NetIO}}\t{{.BlockIO}}"
 CONTAINER           CPU %               MEM %               NET I/O             BLOCK I/O
 c5a675bae310        0.02%               1.94%               16.8MB / 195kB      0B / 0B
@@ -161,4 +161,4 @@ c4c270bd00ec        0.02%               1.79%               15.2MB / 102kB      
 ```
 
 ### Documentação oficial:
-https://docs.docker.com/engine/reference/commandline/stats/#formatting
+[https://docs.docker.com/engine/reference/commandline/stats/#formatting]
