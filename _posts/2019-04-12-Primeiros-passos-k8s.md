@@ -56,12 +56,13 @@ Neste cenário utilizei o seguinte ambiente:
 
 A fim de facilitar o processo, criei 2 playbooks para ansible que podem ser vistos abaixo, ou baixados de: [github.com/zenatuz/k8s](https://github.com/zenatuz/k8s).
 
-> Por algum motivo que desconheço, o Jekyll não está exibindo as variáveis do Ansible, portanto, baixe o código do github ao invés de copiar daqui.
+> ~~Por algum motivo que desconheço, o Jekyll não está exibindo as variáveis do Ansible, portanto, baixe o código do github ao invés de copiar daqui.~~ *UPDATE*, resolvei o problema da formatação.
 
 O primeiro playbook instala alguns requisitos e prepara o ambiente para a instalação do Kubernetes, dentre os requisitos, estão a **container-engine** (nesse exemplo: *Docker*)
 
 Playbook: **```pre-req.yml```**
-```yaml
+{% highlight yaml %}
+{% raw %}
 # Ansible Playbook: pre-req.yml
 ---
 - hosts: all
@@ -154,13 +155,17 @@ Playbook: **```pre-req.yml```**
         name: docker
         enabled: yes
         state: started
-```
+{% endraw %}
+{% endhighlight %}
+
 #### Instalação
 
 O segundo playbook instala o Kubernetes em si.
 
 Playbook: **```install.yml```**
-```yml
+
+{% highlight yaml %}
+{% raw %}
 # Ansible Playbook: install.yml
 ---
 - hosts: all
@@ -256,22 +261,28 @@ Playbook: **```install.yml```**
           name: kubelet
           enabled: true
 
-```
+{% endraw %}
+{% endhighlight %}
 
 Para executar os playbooks, crie um arquivo de inventário apontando os hosts onde fará a instalação.
 
 Arquivo de inventário utilizado no exemplo: **(hosts.ini)**
 
-```ini
+{% highlight ini %}
+{% raw %}
 [k8s_template]
 192.168.45.216 ansible_user=root
-```
+{% endraw %}
+{% endhighlight %}
+
 Em seguida, execute os playbooks:
 
-```shell
+{% highlight bash %}
+{% raw %}
 ansible-playbook -i hosts.ini pre-req.yml
 ansible-playbook -i hosts.ini install.yml
-```
+{% endraw %}
+{% endhighlight %}
 
 Ao final, depois de executar os 2 playbooks, você terá um ambiente pronto para instalar o K8S utilizando o *kubeadm*.
 

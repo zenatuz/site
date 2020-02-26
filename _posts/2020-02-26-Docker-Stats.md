@@ -158,11 +158,6 @@ c4c270bd00ec        stoic_spence             1.18%               180.2MiB / 7.50
 {% endhighlight %}
 
 Neste exemplo a seguir, eu consigo observar alguns valores e remover outros. Utilizando os parâmetros 
-{% highlight bash %}
-{% raw %}
-docker stats --no-stream --format "table {{.Container}}\t{{.CPUPerc}}\t{{.MemPerc}}\t{{.NetIO}}\t{{.BlockIO}}"
-{% endraw %}
-{% endhighlight %}
 
 {% highlight bash %}
 {% raw %}
