@@ -21,7 +21,6 @@ header:
     image_description: Photo by Frank Mckenna
 comments: true
 ---
-
 # Docker Containers
 Parte da administração de TI, envolve saber como obter métricas de utilização dos recursos.
 
@@ -89,9 +88,10 @@ Server:
 {% endhighlight %}
 
 ## Docker PS
-O ``docker ps`` exibe os containers que foram executados ou estão em execução, alguns filtros comuns são **``docker ps``** e **``docker ps -a``**.
+O ``docker ps`` exibe os containers que foram executados ou estão em execução, alguns filtros comuns são ``docker ps`` e ``docker ps -a``.
 
-### Containers em execução: ``docker ps``
+### Containers em execução
+
 {% highlight bash %}
 {% raw %}
 $ docker ps
@@ -105,7 +105,7 @@ c4c270bd00ec        dotnetapp:latest    "/bin/sh -c 'set ASP…"   44 minutes ag
 {% endraw %}
 {% endhighlight %}
 
-### Todos os containers, inclusive os parados: ``docker ps -a``
+### Todos os containers, inclusive os parados
 
 {% highlight bash %}
 {% raw %}
@@ -145,7 +145,7 @@ c4c270bd00ec        dotnetapp:latest    11 minutes ago
 ## Docker Stats
 O ``docker stats`` por sua vez, mostra consumo de recurso de cada container. 
 
-> *Nota: Um parâmetro interessante é o ``--no-stream`` que exibe o consumo atual no momento da execução, se o parâmetro não for fornecido, ele é atulizado em tempo real.*
+> **Nota**: *Um parâmetro interessante é o ``--no-stream`` que exibe o consumo atual no momento da execução, se o parâmetro não for fornecido, ele é atulizado em tempo real.*
 
 {% highlight bash %}
 {% raw %}
@@ -160,7 +160,7 @@ c4c270bd00ec        stoic_spence             1.18%               180.2MiB / 7.50
 {% endraw %}
 {% endhighlight %}
 
-Neste exemplo a seguir, eu consigo observar alguns valores e remover outros. Utilizando alguns parâmetros.
+Neste exemplo, eu consigo observar alguns valores e remover outros. Utilizando alguns parâmetros.
 
 {% highlight bash %}
 {% raw %}
