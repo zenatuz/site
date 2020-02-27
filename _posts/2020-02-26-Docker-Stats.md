@@ -30,7 +30,7 @@ Com docker não seria diferente, tanto que a própria CLI já disponibiliza coma
 ## Docker Info
 O ``docker info``  exibe informações gerais do sistema, como detalhes do host, Containers (criados, em execução, em pausa, parados), imagens, versão do cliente e servidor, storage, plugins, kernel, SO, arquitetura, registries, etc.
 
-Detalhes podem ser visto na documentação oficial: [https://docs.docker.com/engine/reference/commandline/info/]
+Detalhes podem ser visto na documentação oficial: [https://docs.docker.com/engine/reference/commandline/info/](https://docs.docker.com/engine/reference/commandline/info/)
 
 {% highlight bash %}
 {% raw %}
@@ -140,7 +140,7 @@ c4c270bd00ec        dotnetapp:latest    11 minutes ago
 {% endhighlight %}
 
 ### Documentação oficial:
-[https://docs.docker.com/engine/reference/commandline/ps/#formatting]
+[https://docs.docker.com/engine/reference/commandline/ps/#formatting](https://docs.docker.com/engine/reference/commandline/ps/#formatting)
 
 ## Docker Stats
 O ``docker stats`` por sua vez, mostra consumo de recurso de cada container. 
@@ -176,4 +176,4 @@ c4c270bd00ec        0.02%               1.79%               15.2MB / 102kB      
 {% endhighlight %}
 
 ### Documentação oficial:
-[https://docs.docker.com/engine/reference/commandline/stats/#formatting]
+[https://docs.docker.com/engine/reference/commandline/stats/#formatting](https://docs.docker.com/engine/reference/commandline/stats/#formatting)
