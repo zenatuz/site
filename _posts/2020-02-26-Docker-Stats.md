@@ -5,7 +5,10 @@ comments: 'true'
 date: 2020-02-26
 permalink: /blog/:year-:month-:day-:title
 categories: 
-    - Artigo
+    - artigo
+    - docker
+    - containers
+    - devops
 classes: 
     - wide
 author: Renato Batista
@@ -20,12 +23,12 @@ comments: true
 ---
 
 # Docker Containers
-Parte da administração de containers assim como qualquer recurso de TI, envolve saber como obter métricas de utilização dos recursos.
+Parte da administração de TI, envolve saber como obter métricas de utilização dos recursos.
 
 Com docker não seria diferente, tanto que a própria CLI já disponibiliza comandos interessantes como ``docker info, docker ps, docker stats``. 
 
 ## Docker Info
-O ``docker info``  exibe informações gerais do sistema, como detalhes do host, kernel, versão do cliente e servidor, etc.
+O ``docker info``  exibe informações gerais do sistema, como detalhes do host, Containers (criados, em execução, em pausa, parados), imagens, versão do cliente e servidor, storage, plugins, kernel, SO, arquitetura, registries, etc.
 
 Detalhes podem ser visto na documentação oficial: [https://docs.docker.com/engine/reference/commandline/info/]
 
@@ -86,7 +89,7 @@ Server:
 {% endhighlight %}
 
 ## Docker PS
-O ``docker ps`` exibe os containers que foram executados ou estão em execução, alguns filtros comuns são:
+O ``docker ps`` exibe os containers que foram executados ou estão em execução, alguns filtros comuns são **``docker ps``** e **``docker ps -a``**.
 
 ### Containers em execução: ``docker ps``
 {% highlight bash %}
@@ -157,7 +160,7 @@ c4c270bd00ec        stoic_spence             1.18%               180.2MiB / 7.50
 {% endraw %}
 {% endhighlight %}
 
-Neste exemplo a seguir, eu consigo observar alguns valores e remover outros. Utilizando os parâmetros 
+Neste exemplo a seguir, eu consigo observar alguns valores e remover outros. Utilizando alguns parâmetros.
 
 {% highlight bash %}
 {% raw %}
