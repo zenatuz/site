@@ -54,7 +54,7 @@ Neste cenário utilizei o seguinte ambiente:
 ### Playbooks para instalação automatizada
 #### Pre requisitos
 
-A fim de facilitar o processo, criei 2 playbooks para ansible que podem ser vistos abaixo, ou baixados de: [github.com/zenatuz/k8s](https://github.com/zenatuz/k8s).
+A fim de facilitar o processo, criei 2 playbooks para ansible que podem ser vistos abaixo, ou baixados de: [https://github.com/zenatuz/k8s-playbooks-conf](https://github.com/zenatuz/k8s-playbooks-conf).
 
 > ~~Por algum motivo que desconheço, o Jekyll não está exibindo as variáveis do Ansible, portanto, baixe o código do github ao invés de copiar daqui.~~ *UPDATE*, resolvei o problema da formatação.
 
