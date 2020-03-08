@@ -1,9 +1,9 @@
-version: '3'
+version: '3.7'
 services:
   jekyll:
-    image: jekyll/minimal:3.8
-    command: bundle exec jekyll serve --watch --force_polling --verbose --host=0.0.0.0
+    build: .
+    image: renatobatista:latest
     ports:
       - 4000:4000
     volumes:
-      - .:/srv/jekyll
+      - .:/app
