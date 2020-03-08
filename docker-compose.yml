@@ -1,9 +1,8 @@
-version: '2'
-
+version: '3'
 services:
   jekyll:
-    image: jekyll/jekyll:latest
-    command: jekyll serve --watch --force_polling --verbose
+    image: jekyll/minimal:3.8
+    command: bundle exec jekyll serve --watch --force_polling --verbose --host=0.0.0.0
     ports:
       - 4000:4000
     volumes:
