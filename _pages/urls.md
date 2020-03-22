@@ -1,5 +1,5 @@
 ---
-title:  "Sobre o autor"
+title:  "Renato Batista - Links"
 layout: splash
 classes:
   - landing
@@ -28,7 +28,7 @@ Nerd e amante de tecnologia, trabalho com infraestrutura, cloud, containers, eva
 
 ![image](/assets/images/icons/32px/globe.png)   [Site](https://renatobatista.com.br)  
 
-![image](/assets/images/icons/32px/youtube.png)  [Youtube - Desaventurando](https://www.youtube.com/channel/UCmG0lv_84y5DNye2AAMyUsQ/featured)  
+![image](/assets/images/icons/32px/youtube.png)  [Youtube - Desaventurando (Webserie de RPG)](https://www.youtube.com/channel/UCmG0lv_84y5DNye2AAMyUsQ/featured)  
 
 ![image](/assets/images/icons/32px/linkedin.png)  [Linkedin](https://linkedin.com/in/zenatuz)  
 
