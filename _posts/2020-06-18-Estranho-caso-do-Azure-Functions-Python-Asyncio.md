@@ -1,5 +1,5 @@
 ---
-title: 'O estranho caso do Azure Functions + Python com async'
+title: 'O estranho caso do Azure Functions: Python com async'
 layout: single
 comments: 'true'
 date: 2020-06-18
@@ -12,7 +12,7 @@ categories:
 classes: 
     - wide
 author: Renato Batista
-excerpt: "Como sofrer para realizar deploys no Azure Functions utilzando Python"
+excerpt: "Como sofrer para realizar deploys no Azure Functions utilizando Python"
 header:
     overlay_image: assets/images/splash/kevin-horvat-Pyjp2zmxuLk-unsplash.jpg
     teaser: assets/images/splash/kevin-horvat-Pyjp2zmxuLk-unsplash.jpg
@@ -25,9 +25,9 @@ comments: true
 Estamos migrando aqui na empresa nosso ambiente de nuvem, saindo da AWS, indo para a Azure, com isso, várias adaptações são necessárias pra deixar tudo redondo. 
 Um dos recursos que utilizamos na AWS são as Lambdas, que precisamos portar para Azure, essas lambdas irão para o serviço Functions.
 
-Dentro do functions existem alguns tipos de Tiers, devido a necessidade de conectar a recursos internos como APIs e DB, o que melhor nos atendeu foi o [Premium Plan](https://docs.microsoft.com/en-us/azure/azure-functions/functions-premium-plan).
+Dentro do functions existem alguns tipos de Tiers, devido a necessidade de conectar a recursos internos como APIs e DB, o que melhor nos atendeu foi o [Premium Plan](https://docs.microsoft.com/en-us/azure/azure-functions/functions-premium-plan){:target="_blank"}.
 
-Seguindo a documentação do [Quickstart](https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-first-function-vs-code?pivots=programming-language-python), tudo correu bem.
+Seguindo a documentação do [Quickstart](https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-first-function-vs-code?pivots=programming-language-python){:target="_blank"}, tudo correu bem.
 O problema começou quando portamos nosso código, que funciona perfeitamenta localmente, mas quando enviamos para deploy um erro genérico acontecia.
 
 O código não é nada de outro mundo, veja:
@@ -77,17 +77,17 @@ O erro acontecia quando ele instalava a lib **asyncio** via PIP, como pode ser v
 ```shell
 ...
 2020-06-16T18:35:17.087234270Z           import asyncio
-2020-06-16T18:35:17.088550722Z [40m[32minfo[39m[22m[49m: Host.Function.Console[0]
+2020-06-16T18:35:17.088550722Z [40m[32minfo[39m[22m[49m: Host.Function.Console[0]
 2020-06-16T18:35:17.088567423Z         File "/home/site/wwwroot/.python_packages/lib/site-packages/asyncio/__init__.py", line 21, in <module>
-2020-06-16T18:35:17.090280992Z [40m[32minfo[39m[22m[49m: Host.Function.Console[0]
+2020-06-16T18:35:17.090280992Z [40m[32minfo[39m[22m[49m: Host.Function.Console[0]
 2020-06-16T18:35:17.090298593Z           from .base_events import *
-2020-06-16T18:35:17.092192769Z [40m[32minfo[39m[22m[49m: Host.Function.Console[0]
+2020-06-16T18:35:17.092192769Z [40m[32minfo[39m[22m[49m: Host.Function.Console[0]
 2020-06-16T18:35:17.092209669Z         File "/home/site/wwwroot/.python_packages/lib/site-packages/asyncio/base_events.py", line 296
-2020-06-16T18:35:17.097654888Z [40m[32minfo[39m[22m[49m: Host.Function.Console[0]
+2020-06-16T18:35:17.097654888Z [40m[32minfo[39m[22m[49m: Host.Function.Console[0]
 2020-06-16T18:35:17.097747992Z           future = tasks.async(future, loop=self)
-2020-06-16T18:35:17.099827375Z [40m[32minfo[39m[22m[49m: Host.Function.Console[0]
+2020-06-16T18:35:17.099827375Z [40m[32minfo[39m[22m[49m: Host.Function.Console[0]
 2020-06-16T18:35:17.099844476Z                          ^
-2020-06-16T18:35:17.101305835Z [40m[32minfo[39m[22m[49m: Host.Function.Console[0]
+2020-06-16T18:35:17.101305835Z [40m[32minfo[39m[22m[49m: Host.Function.Console[0]
 2020-06-16T18:35:17.101323036Z       SyntaxError: invalid syntax
 ...
 ```
