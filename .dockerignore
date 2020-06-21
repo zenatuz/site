@@ -1,7 +1,0 @@
-Dockerfile
-# .git
-.gitattributes
-.github
-.gitignore
-.travis.yml
-Dockerignore
