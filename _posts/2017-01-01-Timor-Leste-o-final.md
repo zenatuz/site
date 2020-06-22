@@ -1,12 +1,12 @@
 ---
 title: 'Timor Leste: O final'
 layout: single
-comments: 'true'
 date: 2017-01-01
 permalink: /blog/:year-:month-:day-:title
-categories: 
-    - Carreira
-    - TimorLeste
+tags: 
+    - carreira
+    - timor-leste
+    - asia
 classes: 
     - wide
 author: Renato Batista

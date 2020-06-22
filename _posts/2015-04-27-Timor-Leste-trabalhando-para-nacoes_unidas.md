@@ -1,14 +1,16 @@
 ---
 title: 'Timor Leste: Trabalhando para as Nações Unidas'
 layout: single
+date: 2015-04-27
 permalink: /blog/:year-:month-:day-:title
-categories: 
-    - Carreira
-    - TimorLeste
+tags: 
+    - carreira
+    - timor-leste
+    - asia
 classes: 
     - wide
 author: Renato Batista
-excerpt: ""
+excerpt: "Dia a dia trabalhando em Dili."
 header:
     overlay_image: /assets/images/splash/undp_bg.jpg
     teaser: /assets/images/splash/undp_bg.jpg

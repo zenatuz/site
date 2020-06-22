@@ -1,10 +1,9 @@
 ---
 title: 'O estranho caso do Azure Functions: Python com async'
 layout: single
-comments: 'true'
 date: 2020-06-18
 permalink: /blog/:year-:month-:day-:title
-categories: 
+tags:
     - artigo
     - azure
     - functions
