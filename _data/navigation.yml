@@ -4,7 +4,7 @@ main:
     url:  /
   - title: "Artigos"
     url: /artigos
-  #- title: "RSS"
-  #  url: /feed
+  - title: "Tags"
+    url: /tags
   - title: "Sobre"
     url: /sobre
