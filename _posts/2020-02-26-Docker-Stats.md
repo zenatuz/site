@@ -1,10 +1,9 @@
 ---
 title: 'Docker Stats'
 layout: single
-comments: 'true'
 date: 2020-02-26
 permalink: /blog/:year-:month-:day-:title
-categories: 
+tags: 
     - artigo
     - docker
     - containers

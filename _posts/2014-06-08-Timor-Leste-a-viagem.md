@@ -1,10 +1,12 @@
 ---
 title: 'Timor Leste: A viagem'
 layout: single
+date: 2014-06-08
 permalink: /blog/:year-:month-:day-:title
-categories: 
-    - Carreira
-    - TimorLeste
+tags: 
+    - carreira
+    - timor-leste
+    - asia
 classes: 
     - wide
 author: Renato Batista

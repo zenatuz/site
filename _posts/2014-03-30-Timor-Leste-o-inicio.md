@@ -1,12 +1,12 @@
 ---
 title: 'Timor Leste: O Início'
 layout: single
+date: 2014-03-30
 permalink: /blog/:year-:month-:day-:title
-comments: true
-tags: [carreira, timor-leste, asia]
-categories: 
-    - Carreira
-    - TimorLeste
+tags: 
+    - carreira
+    - timor-leste
+    - asia
 classes: 
     - wide
 author: Renato Batista

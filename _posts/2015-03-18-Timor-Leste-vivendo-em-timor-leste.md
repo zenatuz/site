@@ -1,14 +1,16 @@
 ---
 title: 'Timor Leste: Vivendo em Timor'
 layout: single
+date: 2015-03-18
 permalink: /blog/:year-:month-:day-:title
-categories: 
-    - Carreira
-    - TimorLeste
+tags: 
+    - carreira
+    - timor-leste
+    - asia
 classes: 
     - wide
 author: Renato Batista
-excerpt: "O dia-a-dia em Timor Leste"
+excerpt: "O dia-a-dia em Timor Leste."
 header:
     overlay_image: /assets/images/splash/timor_flag_bg.jpg
     teaser: /assets/images/splash/timor_flag_bg.jpg

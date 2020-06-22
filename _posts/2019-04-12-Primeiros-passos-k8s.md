@@ -1,11 +1,13 @@
 ---
 title: 'Primeiros Passos no K8S'
 layout: single
-comments: 'true'
-date: 2019-12-10
+date: 2019-04-12
 permalink: /blog/:year-:month-:day-:title
-categories: 
-    - Artigo
+tags: 
+    - artigo
+    - devops
+    - kubernetes
+    - k8s
 classes: 
     - wide
 author: Renato Batista

@@ -1,11 +1,12 @@
 ---
 title: 'Vida Corrida'
 layout: single
-comments: 'true'
 date: 2019-11-30
 permalink: /blog/:year-:month-:day-:title
-categories: 
-    - Artigo
+tags: 
+    - artigo
+    - vida
+    - dia-a-dia
 classes: 
     - wide
 author: Renato Batista
