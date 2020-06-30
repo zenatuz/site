@@ -99,49 +99,49 @@ author:
   location         : "Goiânia - Brasil"
   email            :
   links:
-    - label: "Linkedin"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/zenatuz"
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
+    - label:  "Linkedin"
+      icon:   "fab fa-fw fa-linkedin"
+      url:    "https://linkedin.com/in/zenatuz"
+    - label:  "Email"
+      icon:   "fas fa-fw fa-envelope-square"
+      url:    contato@renatobatista.com.br
+    - label:  "Website"
+      icon:   "fas fa-fw fa-link"
       # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/zenatuz"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
+    - label:  "Twitter"
+      icon:   "fab fa-fw fa-twitter-square"
+      url:    "https://twitter.com/zenatuz"
+    - label:  "Facebook"
+      icon:   "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/zenatuz"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/zenatuz"
+    - label:  "GitHub"
+      icon:   "fab fa-fw fa-github"
+      url:    "https://github.com/zenatuz"
+    - label:  "Instagram"
+      icon:   "fab fa-fw fa-instagram"
+      url:    "https://instagram.com/zenatuz"
 
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/zenatuz"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
+    - label:  "Twitter"
+      icon:    "fab fa-fw fa-twitter-square"
+      # url: ""
+    - label:  "Facebook"
+      icon:   "fab fa-fw fa-facebook-square"
       # url:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/zenatuz"
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
+    - label:  "GitHub"
+      icon:   "fab fa-fw fa-github"
+      # url: ""
+    - label:  "GitLab"
+      icon:   "fab fa-fw fa-gitlab"
       # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
+    - label:  "Bitbucket"
+      icon:   "fab fa-fw fa-bitbucket"
       # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/zenatuz"
+    - label:  "Instagram"
+      icon:   "fab fa-fw fa-instagram"
+      url:    "https://instagram.com/zenatuz"
 
 
 # Reading Files
@@ -279,7 +279,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
   - scope:
