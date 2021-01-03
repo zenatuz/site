@@ -1,4 +1,4 @@
-FROM ruby:alpine as Jekyll
+FROM ruby:2.7-alpine as base-jekyll
 WORKDIR /app
 
 # Install dependencies
@@ -7,7 +7,7 @@ RUN apk upgrade --no-cache --update && apk add --no-cache --update make build-ba
 # Instal Gems (bundler and jekyll)
 RUN gem install bundler jekyll
 
-FROM Jekyll 
+FROM base-jekyll
 # Copy Theme files to Workdir
 COPY . /app
 
