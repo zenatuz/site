@@ -1,5 +1,6 @@
 FROM ruby:2.7-alpine as base-jekyll
 WORKDIR /app
+ENV TZ=America/Sao_Paulo
 
 # Install dependencies
 RUN apk upgrade --no-cache --update && apk add --no-cache --update make build-base git
@@ -15,6 +16,6 @@ COPY . /app
 RUN bundle install --jobs 4 --retry 3 --quiet
 
 # Start local server
-CMD ["bundle", "exec", "jekyll", "serve", "--watch" ,"--host=0.0.0.0"]
+# CMD ["bundle", "exec", "jekyll", "serve", "-H 0.0.0.0"]
 
 EXPOSE 4000
