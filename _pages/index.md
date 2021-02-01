@@ -8,7 +8,7 @@ classes:
 # Texto que vai na home, sobre a foto (splash)
 excerpt: "O espaço, a fronteira final. Estas são as anotações de um curioso, audaciosamente indo, onde nenhum homem jamais esteve. <br /> <br />
 
-**Sobre mim em 1 frase**: Um nerd e amante de tecnologia, jogos, café e RPG. ☕💻⚙️☁️🎮🕹️👾🎧📷 🇧🇷🐲🧝‍♂️🧙‍♂️🎲"
+Sou amante de tecnologia, café e RPG. Curioso e pronto pra encarar qualquer desafio. Como hobbies, videogames e jogos em geral tem um espaço reservado; livros, filmes e séries de ficção científica e fantasia são meus gêneros preferidos. ☕💻⚙️☁️🎮🕹️👾🎧📷 🇧🇷🐲🧝‍♂️🧙‍♂️🎲"
 
 header:
     overlay_image: /assets/images/splash/index_bg.jpg
