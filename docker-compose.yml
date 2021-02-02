@@ -9,4 +9,7 @@ services:
       - .:/app
     # https://jekyllrb.com/docs/configuration/options/
     # command: bundle exec jekyll s -H 0.0.0.0 -w -v -i -l
-    command: bundle exec jekyll serve --host 0.0.0.0 --force-polling --watch --incremental --livereload 
+    # command: bundle exec jekyll serve --host 0.0.0.0 --force-polling --watch --incremental --livereload 
+    command: >
+      bash -c "bundle exec jekyll build" &&\
+      bundle exec jekyll serve --host 0.0.0.0 --force-polling --watch --incremental --livereload
