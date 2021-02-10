@@ -15,12 +15,9 @@ header:
 {: refdef}
 
 {:refdef: style="text-align: center;"}
-Nerd e amante de tecnologia, trabalho com infraestrutura, cloud, containers, evangelizador da cultura devops; também curto café e rpg.  
+Sou amante de tecnologia, café e RPG. Curioso e pronto pra encarar qualquer desafio. Como hobbies, videogames e jogos em geral tem um espaço reservado; livros, filmes e séries de ficção científica e fantasia são meus gêneros preferidos. ☕💻🎮🎧📷 🇧🇷 🐲 🧝‍♂️ 🧙‍♂️ 🎲  
 {: refdef}
 
-{:refdef: style="text-align: center;"}
-☕💻⚙️☁️🎮🕹️👾🎧📷 🇧🇷🐲🧝‍♂️🧙‍♂️🎲
-{: refdef}
 
 ### Confira alguns links
 
@@ -34,7 +31,7 @@ Nerd e amante de tecnologia, trabalho com infraestrutura, cloud, containers, eva
 
 ![image](/assets/images/icons/32px/github.png)  [Github](https://github.com/zenatuz)  
 
-![image](/assets/images/icons/32px/inbox.png)  [Email](mailto://contato@renatobatista.com.br)  
+<!-- ![image](/assets/images/icons/32px/inbox.png)  <[Email](mailto:contato@renatobatista.com.br)   -->
 
 ![image](/assets/images/icons/32px/twitter.png)  [Twitter](https://twitter.com/zenatuz)  
 
