@@ -97,23 +97,14 @@ author:
   avatar           : /assets/images/authors/renato_batista.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Sou amante de tecnologia, café e RPG. Curioso e pronto pra encarar qualquer desafio. Como hobbies, videogames e jogos em geral tem um espaço reservado; livros, filmes e séries de ficção científica e fantasia são meus gêneros preferidos. ☕💻🎮🎧📷 🇧🇷 🐲 🧝‍♂️ 🧙‍♂️ 🎲"
   location         : "Goiânia - Brasil"
-  email            :
+  email            : contato@renatobatista.com.br
   links:
     - label:  "Linkedin"
       icon:   "fab fa-fw fa-linkedin"
       url:    "https://linkedin.com/in/zenatuz"
-    - label:  "Email"
-      icon:   "fas fa-fw fa-envelope-square"
-      url:    contato@renatobatista.com.br
-    - label:  "Website"
-      icon:   "fas fa-fw fa-link"
-      # url: "https://your-website.com"
     - label:  "Twitter"
       icon:   "fab fa-fw fa-twitter-square"
       url:    "https://twitter.com/zenatuz"
-    - label:  "Facebook"
-      icon:   "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
     - label:  "GitHub"
       icon:   "fab fa-fw fa-github"
       url:    "https://github.com/zenatuz"
@@ -124,21 +115,15 @@ author:
 # Site Footer
 footer:
   links:
+    - label:  "Linkedin"
+      icon:   "fab fa-fw fa-linkedin"
+      url:    "https://linkedin.com/in/zenatuz"
     - label:  "Twitter"
-      icon:    "fab fa-fw fa-twitter-square"
-      # url: ""
-    - label:  "Facebook"
-      icon:   "fab fa-fw fa-facebook-square"
-      # url:
+      icon:   "fab fa-fw fa-twitter-square"
+      url:    "https://twitter.com/zenatuz"
     - label:  "GitHub"
       icon:   "fab fa-fw fa-github"
-      # url: ""
-    - label:  "GitLab"
-      icon:   "fab fa-fw fa-gitlab"
-      # url:
-    - label:  "Bitbucket"
-      icon:   "fab fa-fw fa-bitbucket"
-      # url:
+      url:    "https://github.com/zenatuz"
     - label:  "Instagram"
       icon:   "fab fa-fw fa-instagram"
       url:    "https://instagram.com/zenatuz"
