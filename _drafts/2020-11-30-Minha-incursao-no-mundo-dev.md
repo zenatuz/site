@@ -1,7 +1,7 @@
 ---
 title: 'Minha Incursão no mundo Dev'
 layout: single
-date: 2020-11-30
+date: 2021-01-03
 permalink: /blog/:year-:month-:day-:title
 tags:
     - artigo
