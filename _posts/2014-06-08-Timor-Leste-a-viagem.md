@@ -2,7 +2,7 @@
 title: 'Timor Leste: A viagem'
 layout: single
 date: 2014-06-08
-permalink: /blog/:year-:month-:day-:title
+permalink: /blog/timor-leste-a-viagem
 tags: 
     - carreira
     - timor-leste

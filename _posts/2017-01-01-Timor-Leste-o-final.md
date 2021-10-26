@@ -2,7 +2,7 @@
 title: 'Timor Leste: O final'
 layout: single
 date: 2017-01-01
-permalink: /blog/:year-:month-:day-:title
+permalink: /blog/timor-leste-o-final
 tags: 
     - carreira
     - timor-leste

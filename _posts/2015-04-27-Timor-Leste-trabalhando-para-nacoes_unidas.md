@@ -2,7 +2,7 @@
 title: 'Timor Leste: Trabalhando para as Nações Unidas'
 layout: single
 date: 2015-04-27
-permalink: /blog/:year-:month-:day-:title
+permalink: /blog/timor-leste-trabalhando-para-as-nacoes-unidas
 tags: 
     - carreira
     - timor-leste
