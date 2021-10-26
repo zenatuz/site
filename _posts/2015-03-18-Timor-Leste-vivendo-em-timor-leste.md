@@ -2,7 +2,7 @@
 title: 'Timor Leste: Vivendo em Timor'
 layout: single
 date: 2015-03-18
-permalink: /blog/:year-:month-:day-:title
+permalink: /blog/timor-leste-vivendo-em-timor-leste
 tags: 
     - carreira
     - timor-leste

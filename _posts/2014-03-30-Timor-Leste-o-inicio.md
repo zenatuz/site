@@ -2,7 +2,7 @@
 title: 'Timor Leste: O Início'
 layout: single
 date: 2014-03-30
-permalink: /blog/:year-:month-:day-:title
+permalink: /blog/timor-leste-o-inicio
 tags: 
     - carreira
     - timor-leste
