@@ -18,7 +18,7 @@ header:
     overlay_filter: 0.5
     caption: "Photo by Frank Mckenna [**Unsplash**](https://unsplash.com/collections/4839205/docker-illustrations)"
     image_description: Photo by Frank Mckenna
-comments: true
+
 ---
 # Docker Containers
 Parte da administração de TI, envolve saber como obter métricas de utilização dos recursos.

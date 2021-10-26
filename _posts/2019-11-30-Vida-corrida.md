@@ -17,7 +17,7 @@ header:
     overlay_filter: 0.5
     caption: "Photo by Robin Pierre [**Unsplash**](https://unsplash.com/photos/dPgPoiUIiXk)"
     image_description: Photo by Robin Pierre on Unsplash
-comments: true
+
 ---
 
 ***"Ahh, como a vida é corrida..."***

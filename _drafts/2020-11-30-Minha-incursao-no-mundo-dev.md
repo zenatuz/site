@@ -19,7 +19,7 @@ header:
     overlay_filter: 0.5
     caption: "Photo by Karl Pawlowicz on Unsplash [**Unsplash**](https://unsplash.com/photos/QUHuwyNgSA0)"
     image_description: Photo by Karl Pawlowicz on Unsplash
-comments: true
+
 ---
 # Minha incursão no mundo Dev
 Nos últimos anos eu tenho me forçado a trabalhar lado-a-lado com a galera de desenvolvimento, como parte de uma estratégia em me tornar um **'engenheiro devops'** de verdade. Eu não gosto desse termo como se fosse um título para algum cargo, mas é fato que o mercado o adotou, então como diz o ditado, **"Se não pode vencê-los, junte-se a eles"**.

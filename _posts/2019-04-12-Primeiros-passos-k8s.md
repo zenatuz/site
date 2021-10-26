@@ -18,7 +18,7 @@ header:
     overlay_filter: 0.5
     caption: "Photo by Dan Kb [**Unsplash**](https://unsplash.com/photos/FNTEEZpNI5E)"
     image_description: Photo by Dan Kb on Unsplash
-comments: true
+
 render_with_liquid: false
 ---
 

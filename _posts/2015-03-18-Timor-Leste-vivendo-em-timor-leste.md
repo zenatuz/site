@@ -17,7 +17,7 @@ header:
     overlay_filter: 0.5
     caption: "Photo by Héricka Batista: [**Instagram**](https://instagram.com/herickabatista)"
     image_description: Photo by Héricka Batista
-comments: true
+
 ---
 
 Viver em Timor Leste, especialmente na capital, Dili, não é uma tarefa difícil, mas é necessário aprender a ser espartano em muitos aspectos. Depois de quase 1 ano por aqui posso falar um pouco sobre como tem sido minha adaptação por aqui por tópicos que considero essenciais.
