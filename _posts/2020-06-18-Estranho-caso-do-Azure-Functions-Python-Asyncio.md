@@ -18,7 +18,7 @@ header:
     overlay_filter: 0.5
     caption: "Photo by Kevin Horvat on Unsplash [**Unsplash**](https://unsplash.com/@hidd3n?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
     image_description: Photo by Kevin Horvat on Unsplash
-comments: true
+
 ---
 # Um pouco de contexto
 Estamos migrando aqui na empresa nosso ambiente de nuvem, saindo da AWS, indo para a Azure, com isso, várias adaptações são necessárias pra deixar tudo redondo. 

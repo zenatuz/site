@@ -17,7 +17,7 @@ header:
     overlay_filter: 0.5
     caption: "Website: [**UNDP**](https://www.undp.org/)"
     image_description: Photo by UNDP
-comments: true
+
 ---
 
 Muita gente me pergunta como consegui este contrato com a UN (United Nations), como acompanhar vagas e tal. Então pra facilitar a vida de todo mundo resolvi escrever a respeito e assim centralizar essas informações e alguns links úteis.
