@@ -30,7 +30,7 @@ masthead_title           : "Renato Batista" # overrides the website title displa
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : staticman_v2 # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
+  provider               : false # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
@@ -47,8 +47,8 @@ comments:
     branch               : "master" # "master"
     endpoint             : https://staticman-renatobatista.herokuapp.com/v2/connect/zenatuz/renatobatista.com.br/master/comments # "https://{your Staticman v3 API}/v3/entry/github/"
 reCaptcha:
-  siteKey                : 6LeDDKwZAAAAAPsRBz5fSP4YNbxiOxBqlysnYfRE
-  secret                 : JzrVmWEAUS5mWOqh0PHclrokFIIpKczhjj68kpekYlmuXEQEUKNSrIdMwf2vcveH0sTjRN/NJbN5xbWlmQCIlFA1fbpcC8vcFscfAd7n+uYHCIjRBAIcDLLFF65w1dHBV6jmS976jIg5aou3hNdnMDYA9eam69OS/SwPae7RZn8c5TXuVWiXI37NR72ACFqlGEAn3LbAH+Z+Q0cmRgdHwe/8dhi3dsMN8w2VEvujrqmVmiWMcbBTkFhgyTD7irsvCe9i7kQJHUBM10Te6guecx3g85Jh1ipRuJz2gWO/t4x7YJ8E3Jd0DpgnOmAfVySFgGpgIyhlx0nVqxErbM1/G/q1WXvLWDh1ES09H+JTP1U8z61GHdXZBdwG6pR/G4e3oD+ziJ9XJqpcBm0RbpDdcr9K8uz7qTektvtLlAAm7GWx435AY4QY6J75K7l2s4jlim7W0vOMDMwe9WPpiefmzoMYxUFWhVdxKUwGAbAUNiis65rNp4nEbMKmXzmfJYFQqDVCcwpeAdyMTKkKdslqnhjd2a8X5uGPegvN/Slzsh1av3DTQFUxgEzuBs+RZUMI1GdfnHR+SLRLibm3TSx5wSnsvVzTrO1fAEfbqPmrirj7LwnWT5dFzljnDyTsjBxXjys9q7jiEtr/k/KqIJ84uZPW4KdVfmtiW6kyPclQEr8=
+  siteKey                : "" #
+  secret                 : "" #
 atom_feed:
   path                   : # blank (default) uses feed.xml
 search                   : true # true, false (default)
@@ -96,7 +96,7 @@ author:
   name             : "Renato Batista"
   avatar           : /assets/images/authors/renato_batista.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Sou amante de tecnologia, café e RPG. Curioso e pronto pra encarar qualquer desafio. Como hobbies, videogames e jogos em geral tem um espaço reservado; livros, filmes e séries de ficção científica e fantasia são meus gêneros preferidos. ☕💻🎮🎧📷 🇧🇷 🐲 🧝‍♂️ 🧙‍♂️ 🎲"
-  location         : "Goiânia - Brasil"
+  location         : "Portugal"
   email            : contato@renatobatista.com.br
   links:
     - label:  "Linkedin"
@@ -264,7 +264,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
+      comments: false
       share: true
       related: true
   - scope:
