@@ -20,9 +20,8 @@ Jekyll é desenvolvido em ruby, logo além do ruby (v2 ou superior), estas gems 
 - Clone o projeto
 - Entre no diretório do projeto: ```cd renatobatista.com.br```
 - Instale as gems: ```bundle install```
-- Inicie o serviço: 
-  - ```bundle exec jekyll build```
-  - ```bundle exec jekyll serve --watch```
+- Inicie o serviço:
+- ```bundle exec jekyll serve --host 0.0.0.0 --force-polling --watch --incremental --livereload```
 - Abra o navegador em: [http://localhost:4000](http://localhost:4000)
 - Para interromper digite: ```CTRL + C```
 
