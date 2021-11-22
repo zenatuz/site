@@ -14,7 +14,7 @@ header:
 <!-- Nunca fui muito bom pra falar sobre a minha própria pessoa, mas tenho aprendido de um tempo pra cá, então vamos lá. -->
 
 ## Timeline
-![Renato Batista](/assets/images/authors/renato_perfil_400px.jpg){: .align-right}
+![Renato Batista](/assets/images/authors/renato_batista_400px.jpg){: .align-right}
 
 Me chamo Renato Batista, Trabalho com infraestrutura **desde 2009**, já passei por Governo, TV, indústria e comércio, tanto no Brasil quando no exterior.
 
