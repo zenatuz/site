@@ -20,7 +20,9 @@ Me chamo Renato Batista, Trabalho com infraestrutura **desde 2009**, já passei 
 
 Fui para a Ásia em 2014 trabalhar para o governo de Timor-Leste **em missão pela ONU**, lá, além dessa experiência única, tive a oportunidade de aperfeiçoar meu inglês e pude descobrir meu gosto por viajar.
 
-Voltei ao Brasil em **2017, focando em trabalhar com DevOps**, disseminando a cultura para times de diferentes skills, ensinando e implantando boas práticas, testando novas tecnologias e formas de otimização digital.
+Voltei ao Brasil em **2017, onde pude focar em trabalhar com DevOps**, disseminando a cultura para times multidisciplinares, ensinando e implantando boas práticas, testando novas tecnologias e várias formas de otimização digital.
+
+Em **2021 me mudei para Portugal** com minha família, onde tenho trabalhado como **DevOps Engineer** desde então.
 
 ## Mais um pouco
 Sou amante de tecnologia, café e RPG. Curioso e pronto pra encarar qualquer desafio. 
@@ -28,13 +30,12 @@ Como hobbies, videogames e jogos em geral tem um espaço reservado; livros, film
 
 Criei esse site como um repositório de assuntos interessantes, sobre carreira, vida, mudanças, etc. É sobre isso que quero escrever, não como uma obrigação, mas algo que me dê alegria, então não espere um site sempre atualizado, ou com todo o meu dia a dia, fique a vontade e me siga no [**instagram**](https://instagram.com/zenatuz) se quiser me acompanhar um pouco mais de perto e com mais detalhes. ;)
 
-Para conhecer meu lado profissional, acesse meu [**linkedin**](https://linkedin.com/in/zenatuz), que tem tudo detalhado lá. 
+Para conhecer minha trajetória profissional, acesse meu [**linkedin**](https://linkedin.com/in/zenatuz), que tem tudo detalhado lá.
 
 ## Me encontre por aí
+Você pode me encontrar nestes serviços ou por e-mail.
 
-Você pode me encontrar online ou por e-mail.
-
-[![image](/assets/images/icons/32px/linkedin.png)](https://linkedin.com/in/zenatuz)  [![image](/assets/images/icons/32px/github.png)](https://github.com/zenatuz)  [![image](/assets/images/icons/32px/twitter.png)](https://twitter.com/zenatuz)  [![image](/assets/images/icons/32px/instagram.png)](https://instagram.com/zenatuz)  [![image](/assets/images/icons/32px/inbox.png)](mailto:contato@renatobatista.com.br) 
+[![image](/assets/images/icons/32px/linkedin.png)](https://linkedin.com/in/zenatuz)  [![image](/assets/images/icons/32px/github.png)](https://github.com/zenatuz)  [![image](/assets/images/icons/32px/twitter.png)](https://twitter.com/zenatuz)  [![image](/assets/images/icons/32px/instagram.png)](https://instagram.com/zenatuz)  [![image](/assets/images/icons/32px/inbox.png)](mailto:contato@renatobatista.com.br)
 
 <!-- 
 [![image](/assets/images/icons/32px/youtube.png)](https://www.youtube.com/channel/UCmG0lv_84y5DNye2AAMyUsQ/featured)   -->
