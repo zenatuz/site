@@ -69,13 +69,14 @@ O tipo de visto que solicitei foi o D2, que me permite atuar como consultor, equ
 # Marcando a viagem
 Finalmente depois de ter o visto em mãos, chegou a hora de me preparar para a viagem, o que envolvia pedir demissão do trabalho atual, **onde só avisei que iria me desligar após ter o visto em mãos**, para não correr o risco de ficar sem emprego por um tempo, por mais que eu precisasse de férias, não era o melhor momento pra isso.
 
-Esta fase foi extremamente cansativa, pois decidimos vender tudo o que tínhamos em casa, carro, etc, para iniciar de vez esse novo capítulo com uma situação bem resolvida.
-
 Pois bem depois de avisar na empresa antiga, já agendei com a nova empresa a data da minha chegada, para que fosse provedenciada a viagem!
+
+> Esta fase foi extremamente cansativa, pois decidimos vender tudo o que tínhamos em casa, carro, etc, para iniciar de vez esse novo capítulo com uma situação bem resolvida.
+
+![image](/assets/images/posts/2021-10-25-Portugal-o-inicio_this_is_fine.jpg){: width="650" }{: .align-center}
 
 # Viajando para Portugal
 
 Finalmente, chegou a hora da mudança! 
 
-Essa despedida foi mais difícil do que a primeira vez morando fora, pois agora a família está maior, seja com mais sobrinhos e sobrinhas, cunhados, cunhadas e claro a minha filhinha. Então é de se imaginar que teria muita despedida, especialmente dos tios e avós
-
+Essa despedida foi mais difícil do que a primeira vez morando fora, pois agora a família está maior, seja com mais sobrinhos e sobrinhas, cunhados, cunhadas e claro a minha filhinha. Então é de se imaginar que teria muita despedida, especialmente dos tios e avós. Após algumas despedidas e lágrimas finalmente embarcarmos para dar início a essa longa jornada.
