@@ -2,7 +2,7 @@
 title: 'Portugal: O início'
 layout: single
 date: 2021-10-04
-permalink: /blog/:year-:month-:day-:title
+permalink: /blog/portugal-o-inicio
 tags:
     - artigo
     - carreira

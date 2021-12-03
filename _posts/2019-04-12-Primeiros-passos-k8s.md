@@ -2,7 +2,7 @@
 title: 'Primeiros Passos no K8S'
 layout: single
 date: 2019-04-12
-permalink: /blog/:year-:month-:day-:title
+permalink: /blog/k8s-primeiros-passos
 tags: 
     - artigo
     - devops
