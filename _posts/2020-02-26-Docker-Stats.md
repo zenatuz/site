@@ -2,7 +2,7 @@
 title: 'Docker Stats'
 layout: single
 date: 2020-02-26
-permalink: /blog/:year-:month-:day-:title
+permalink: /blog/docker-stats
 tags: 
     - artigo
     - docker
