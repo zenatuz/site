@@ -84,6 +84,6 @@ Após finalizar, desconecte-se do monitor usando 1 das formas a seguir:
 
   ![image](/assets/images/posts/miracast_08.png)
 
-Pronto, agora pode dar uma sobrevida a um computador antigo e ter uma segunda tela, gastar uma grana extra com isso.
+Pronto, agora pode dar uma sobrevida a um computador antigo e ter uma segunda tela, sem gastar uma grana extra com isso.
 
 > NOTA: Esta funcionalidade também existe em várias TVs mais recentes, se for o seu caso, também pode utilizar sua TV como segunda tela.
