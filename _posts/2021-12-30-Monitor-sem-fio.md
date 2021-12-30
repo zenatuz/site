@@ -33,12 +33,12 @@ Estes não são os únicos protocolos existentes, aqui pode ver uma lista com ma
 # Por que escolhi o Miracast?
 Escolhi o Miracast simplesmente por ser um protocolo já implementado no Windows 10, e por não precisar comprar nada, seja hardware ou licença pra software.
 
-Esta é uma feature do windows 10/11, que não vem instalado por padrão, porém sua instalação é bem simples. Para instalar, veja este link: https://www.thewindowsclub.com/add-and-remove-wireless-display-feature-in-windows-10
+Esta é uma feature do windows 10/11, que não vem instalado por padrão, porém sua instalação é bem simples. Para instalar, veja este link: [https://www.thewindowsclub.com/add-and-remove-wireless-display-feature-in-windows-10](https://www.thewindowsclub.com/add-and-remove-wireless-display-feature-in-windows-10).
 
 Depois de instalado, o computador 2 vai funcionar como host, que receberá a conexão do computador 1, podendo assim duplicar a tela 1 para a 2, ou mesmo estender, de forma que terei 2 monitores, da mesma forma que acontece quando uso um cabo.
 
-# Como utilizar?
 
+# Como utilizar então?
 ## No computador destino, que será a segunda tela (PC 02)
 Clique no Iniciar > Configurações > Sistema > Projetando neste computador **(1)**
 
