@@ -16,7 +16,7 @@ header:
     overlay_image: assets/images/splash/kevin-horvat-Pyjp2zmxuLk-unsplash.jpg
     teaser: assets/images/splash/kevin-horvat-Pyjp2zmxuLk-unsplash.jpg
     overlay_filter: 0.5
-    caption: "Photo by Kevin Horvat on Unsplash [**Unsplash**](https://unsplash.com/@hidd3n?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
+    caption: "Photo by Kevin Horvat on [**Unsplash**](https://unsplash.com/@hidd3n?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
     image_description: Photo by Kevin Horvat on Unsplash
 
 ---

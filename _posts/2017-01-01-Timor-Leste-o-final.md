@@ -15,7 +15,7 @@ header:
     overlay_image: /assets/images/splash/timor_return_bg.jpg
     teaser: /assets/images/splash/timor_return_bg.jpg
     overlay_filter: 0.5
-    caption: "Photo by Renato Batista: [**Instagram**](https://instagram.com/zenatuz)"
+    caption: "Photo by Renato Batista on [**Instagram**](https://instagram.com/zenatuz)"
     image_description: Photo by Renato Batista
 
 ---

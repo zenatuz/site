@@ -16,7 +16,7 @@ header:
     overlay_image: assets/images/splash/kyle-glenn-nXt5HtLmlgE-unsplash.jpg
     teaser: assets/images/splash/kyle-glenn-nXt5HtLmlgE-unsplash.jpg
     overlay_filter: 0.5
-    caption: "Photo by Kyle Glenn on Unsplash [**Unsplash**](https://unsplash.com/photos/nXt5HtLmlgE)"
+    caption: "Photo by Kyle Glenn on [**Unsplash**](https://unsplash.com/photos/nXt5HtLmlgE)"
     image_description: Photo by Kyle Glenn on Unsplash
 
 ---

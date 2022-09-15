@@ -15,7 +15,7 @@ header:
     overlay_image: /assets/images/splash/ross-parmly-rf6ywHVkrlY-unsplash.jpg
     teaser: /assets/images/splash/ross-parmly-rf6ywHVkrlY-unsplash.jpg
     overlay_filter: 0.5
-    caption: "Photo by Ross Parmly: [**Unsplash**](https://unsplash.com/photos/rf6ywHVkrlY)"
+    caption: "Photo by Ross Parmly on [**Unsplash**](https://unsplash.com/photos/rf6ywHVkrlY)"
     image_description: Photo by Ross Parmly on Unsplash
 
 ---
