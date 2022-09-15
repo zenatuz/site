@@ -1,6 +1,6 @@
 FROM ruby:2.7-alpine as base-jekyll
 WORKDIR /app
-ENV TZ=America/Sao_Paulo
+ENV TZ=Europe/Lisbon
 
 # Install dependencies
 RUN apk upgrade --no-cache --update && apk add --no-cache --update make build-base git
