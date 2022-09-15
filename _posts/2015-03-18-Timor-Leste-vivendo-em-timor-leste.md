@@ -15,7 +15,7 @@ header:
     overlay_image: /assets/images/splash/timor_flag_bg.jpg
     teaser: /assets/images/splash/timor_flag_bg.jpg
     overlay_filter: 0.5
-    caption: "Photo by Héricka Batista: [**Instagram**](https://instagram.com/herickabatista)"
+    caption: "Photo by Héricka Batista on [**Instagram**](https://instagram.com/herickabatista)"
     image_description: Photo by Héricka Batista
 
 ---
