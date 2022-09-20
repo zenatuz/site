@@ -42,5 +42,5 @@ This website is automatically published using Netlify in [renatobatista.com.br](
 If you are interested in doing something similar on your own, check this link: https://www.netlify.com/blog/2020/04/02/a-step-by-step-guide-jekyll-4.0-on-netlify/
 
 ## Status and License
-[![Netlify Status](https://api.netlify.com/api/v1/badges/501815b2-6d41-4287-9b4b-feb7ccfb3b8b/deploy-status)](https://app.netlify.com/sites/stupefied-noether-79f45f/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/501815b2-6d41-4287-9b4b-feb7ccfb3b8b/deploy-status)](https://app.netlify.com/sites/renatobatista/deploys)
 [![GitHub license](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/LICENSE.txt)
