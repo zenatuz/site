@@ -6,5 +6,7 @@ main:
     url: /artigos
   - title: "Tags"
     url: /tags
+  - title: "TIL"
+    url: /til
   - title: "Sobre"
     url: /sobre
