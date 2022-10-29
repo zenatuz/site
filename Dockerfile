@@ -1,4 +1,4 @@
-FROM ruby:2.7-alpine as base-jekyll
+FROM ruby:alpine as base-jekyll
 WORKDIR /app
 ENV TZ=Europe/Lisbon
 
