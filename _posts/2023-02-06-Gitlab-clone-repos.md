@@ -1,5 +1,5 @@
 ---
-title: How to clone a bunch of repositories from any Gitlab server
+title: How clone multiple repositories from any Gitlab server
 layout: single
 permalink: /blog/gitlab-clone-repos
 date: '2023-02-06'
@@ -10,7 +10,7 @@ tags:
 classes: wide
 author_profile: true
 
-excerpt: "How to clone a bunch of repositories from any Gitlab server"
+excerpt: "How clone multiple repositories from any Gitlab server"
 
 header:
     overlay_image: /assets/images/splash/pankaj-patel-ZV_64LdGoao-unsplash.jpg
