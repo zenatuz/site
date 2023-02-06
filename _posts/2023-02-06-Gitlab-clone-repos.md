@@ -10,7 +10,7 @@ tags:
 classes: wide
 author_profile: true
 
-excerpt: "How clone multiple repositories from any Gitlab server"
+excerpt: "In this article I show how clone multiple repositories from any Gitlab server instead one clone after another"
 
 header:
     overlay_image: /assets/images/splash/pankaj-patel-ZV_64LdGoao-unsplash.jpg
