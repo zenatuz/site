@@ -71,7 +71,7 @@ The script is available and updated in this repo: <https://github.com/zenatuz/ut
 Once you have all the information you need, you should run the script as follows:
 
 ```bash
-GITLAB_TOKEN="glpat-rWszQS6t9PWX-bWAg25x" ./gitlab-clone-repos.sh -g 63473124
+GITLAB_TOKEN="some-gitlab-token" ./gitlab-clone-repos.sh -g 63473124
 ```
 
 This is how the script should run:
