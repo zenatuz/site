@@ -71,3 +71,4 @@ From now on, if the command does not get authentication, try to show to `aws-cli
 - [https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-profiles.html](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-profiles.html)
 - [https://docs.aws.amazon.com/cli/latest/userguide/sso-configure-profile-token.html](https://docs.aws.amazon.com/cli/latest/userguide/sso-configure-profile-token.html)
 - [https://edenhare.medium.com/a-five-minute-overview-of-aws-single-sign-on-8816a73e1cfc](https://edenhare.medium.com/a-five-minute-overview-of-aws-single-sign-on-8816a73e1cfc)
+- [https://github.com/awslabs/amazon-ecr-credential-helper/issues/229#issuecomment-1254972492](https://github.com/awslabs/amazon-ecr-credential-helper/issues/229#issuecomment-1254972492)
