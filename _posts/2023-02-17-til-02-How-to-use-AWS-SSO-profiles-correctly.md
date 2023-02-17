@@ -19,8 +19,8 @@ header:
     overlay_image: /assets/images/splash/kevin-horvat-Pyjp2zmxuLk-unsplash.jpg
     teaser: /assets/images/splash/kevin-horvat-Pyjp2zmxuLk-unsplash.jpg
     # overlay_filter: 0.5
-    caption: "Photo by Aaron Burden [**Unsplash**](https://unsplash.com/photos/6jYoil2GhVk)"
-    image_description: Photo by Aaron Burden on Unsplash
+    caption: "Photo by Kevin Horvat on [**Unsplash**](https://unsplash.com/photos/Pyjp2zmxuLk)"
+    image_description: Photo by Kevin Horvat on Unsplash
 --- 
 # Today I Learned #02
 
