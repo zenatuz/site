@@ -24,7 +24,7 @@ header:
 --- 
 # Today I Learned #03
 
-f you use terraform, you know that **HCL** doesn't work exactly like a programming language, so you might run into some problems with complex logic now and then.
+If you use terraform, you know that **HCL** doesn't work exactly like a programming language, so you might run into some problems with complex logic now and then.
 
 I was working on an upgrade for a Kubernetes module we use to manage our environments. After some time, I realized that I should control a specific setting for a specific environment (dev cluster only). So, it should be something like with count to enable this resource, right?
 
@@ -32,7 +32,7 @@ Yes, it should be if this resource doesn't already have a `for_each` loop, so I 
 
 ## Conditional Expression in Terraform
 
-In the Terraform documentation you can read this explanation about **Conditional Expressions**. [https://developer.hashicorp.com/terraform/language/expressions/conditionals](https://developer.hashicorp.com/terraform/language/expressions/conditionals) 
+You can read this explanation about **Conditional Expressions**. [https://developer.hashicorp.com/terraform/language/expressions/conditionals](https://developer.hashicorp.com/terraform/language/expressions/conditionals) 
 
 > A conditional expression uses the value of a boolean expression to select one of two values.
   ```
