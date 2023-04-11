@@ -18,7 +18,7 @@ Olá, eu sou o Renato Batista, e trabalho com infraestrutura desde 2009. Tenho e
 
 Em 2014, tive uma experiência única ao trabalhar para o governo de Timor-Leste em missão pela ONU, onde aprimorei meu inglês e descobri minha paixão por viagens.
 
-Ao retornar ao Brasil em 2017, foquei meu trabalho em DevOps, ensinando e implantando boas práticas, testando novas tecnologias e otimizando processos digitais. Agora, desde 2021, tenho trabalhado como DevOps Engineer em Portugal, onde atualmente moro com minha família.
+Ao retornar ao Brasil em 2017, foquei meu trabalho em DevOps, ensinando e implantando boas práticas, testando novas tecnologias e otimizando processos digitais. Agora, desde 2021, tenho trabalhado como "**Cloud e DevOps Engineer**" em Portugal, onde atualmente moro com minha família.
 
 Sou um amante de tecnologia, café e RPG. Sempre curioso e pronto para enfrentar qualquer desafio. Meus hobbies incluem videogames, livros, filmes e séries de ficção científica e fantasia.
 
