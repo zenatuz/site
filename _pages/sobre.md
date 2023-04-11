@@ -11,31 +11,24 @@ header:
     image_description: Photo by rawpixel.com on Unsplash
 ---
 # Sobre mim
-<!-- Nunca fui muito bom pra falar sobre a minha própria pessoa, mas tenho aprendido de um tempo pra cá, então vamos lá. -->
 
-## Timeline
 ![Renato Batista](/assets/images/authors/renato_batista_400px.jpg){: .align-right}
 
-Me chamo Renato Batista, Trabalho com infraestrutura **desde 2009**, já passei por Governo, TV, indústria e comércio, tanto no Brasil quando no exterior.
+Olá, eu sou o Renato Batista, e trabalho com infraestrutura desde 2009. Tenho experiência em diversos setores, como governo, TV, indústria e comércio, tanto no Brasil como no exterior.
 
-Fui para a Ásia em 2014 trabalhar para o governo de Timor-Leste **em missão pela ONU**, lá, além dessa experiência única, tive a oportunidade de aperfeiçoar meu inglês e pude descobrir meu gosto por viajar.
+Em 2014, tive uma experiência única ao trabalhar para o governo de Timor-Leste em missão pela ONU, onde aprimorei meu inglês e descobri minha paixão por viagens.
 
-Voltei ao Brasil em **2017, onde pude focar em trabalhar com DevOps**, disseminando a cultura para times multidisciplinares, ensinando e implantando boas práticas, testando novas tecnologias e várias formas de otimização digital.
+Ao retornar ao Brasil em 2017, foquei meu trabalho em DevOps, ensinando e implantando boas práticas, testando novas tecnologias e otimizando processos digitais. Agora, desde 2021, tenho trabalhado como DevOps Engineer em Portugal, onde atualmente moro com minha família.
 
-Em **2021 me mudei para Portugal** com minha família, onde tenho trabalhado como **DevOps Engineer** desde então.
+Sou um amante de tecnologia, café e RPG. Sempre curioso e pronto para enfrentar qualquer desafio. Meus hobbies incluem videogames, livros, filmes e séries de ficção científica e fantasia.
 
-## Mais um pouco
-Sou amante de tecnologia, café e RPG. Curioso e pronto pra encarar qualquer desafio. 
-Como hobbies, videogames e jogos em geral tem um espaço reservado; livros, filmes e séries de ficção científica e fantasia são meus gêneros preferidos.
+Criei este site como um repositório de assuntos interessantes, sobre carreira, vida e mudanças. Não vejo isso como uma obrigação, mas como uma fonte de alegria. Por isso, não espere um site atualizado diariamente. Sinta-se à vontade para me seguir no [**instagram**](https://instagram.com/zenatuz), caso queira saber mais sobre mim e meus interesses.
 
-Criei esse site como um repositório de assuntos interessantes, sobre carreira, vida, mudanças, etc. É sobre isso que quero escrever, não como uma obrigação, mas algo que me dê alegria, então não espere um site sempre atualizado, ou com todo o meu dia a dia, fique a vontade e me siga no [**instagram**](https://instagram.com/zenatuz) se quiser me acompanhar um pouco mais de perto e com mais detalhes. ;)
 
-Para conhecer minha trajetória profissional, acesse meu [**linkedin**](https://linkedin.com/in/zenatuz), que tem tudo detalhado lá.
+Se quiser conhecer mais sobre minha trajetória profissional, confira meu perfil no [**linkedin**](https://linkedin.com/in/zenatuz). Também estou disponível por e-mail ou em outras redes sociais. Será um prazer conversar com você!
 
 ## Me encontre por aí
-Você pode me encontrar nestes serviços ou por e-mail.
+Você pode me encontrar principalmente por aqui.
 
 [![image](/assets/images/icons/32px/linkedin.png)](https://linkedin.com/in/zenatuz)  [![image](/assets/images/icons/32px/github.png)](https://github.com/zenatuz)  [![image](/assets/images/icons/32px/twitter.png)](https://twitter.com/zenatuz)  [![image](/assets/images/icons/32px/instagram.png)](https://instagram.com/zenatuz)  [![image](/assets/images/icons/32px/inbox.png)](mailto:contato@renatobatista.com.br)
 
-<!-- 
-[![image](/assets/images/icons/32px/youtube.png)](https://www.youtube.com/channel/UCmG0lv_84y5DNye2AAMyUsQ/featured)   -->
