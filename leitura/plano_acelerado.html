@@ -13368,11 +13368,12 @@
   function updateStats() {
     var cbs = document.querySelectorAll('.reading-check');
     var total = cbs.length;
+    var TOTAL_BIBLIA = 1460;
     var done = 0;
     cbs.forEach(function(cb) { if (cb.checked) done++; });
     document.getElementById('doneCount').textContent = done;
-    document.getElementById('totalCount').textContent = total;
-    var pct = total > 0 ? Math.round(done / total * 100) : 0;
+    document.getElementById('totalCount').textContent = TOTAL_BIBLIA;
+    var pct = Math.round(done / TOTAL_BIBLIA * 100);
     document.getElementById('progressFill').style.width = pct + '%';
     document.getElementById('pctLabel').textContent = pct + '%';
   }
