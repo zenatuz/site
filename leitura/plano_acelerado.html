@@ -13367,13 +13367,14 @@
   }
   function updateStats() {
     var cbs = document.querySelectorAll('.reading-check');
-    var total = cbs.length;
     var TOTAL_BIBLIA = 1460;
+    var JA_LIDOS = TOTAL_BIBLIA - cbs.length;
     var done = 0;
     cbs.forEach(function(cb) { if (cb.checked) done++; });
-    document.getElementById('doneCount').textContent = done;
+    var totalDone = JA_LIDOS + done;
+    document.getElementById('doneCount').textContent = totalDone;
     document.getElementById('totalCount').textContent = TOTAL_BIBLIA;
-    var pct = Math.round(done / TOTAL_BIBLIA * 100);
+    var pct = Math.round(totalDone / TOTAL_BIBLIA * 100);
     document.getElementById('progressFill').style.width = pct + '%';
     document.getElementById('pctLabel').textContent = pct + '%';
   }
