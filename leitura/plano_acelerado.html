@@ -149,6 +149,16 @@
     opacity: 0.4;
     text-decoration: line-through;
   }
+  .reading-block.next-up {
+    outline: 2px solid #22c55e;
+    outline-offset: 3px;
+    border-radius: 6px;
+    animation: nextFade 2.5s ease-out 0.8s forwards;
+  }
+  @keyframes nextFade {
+    from { background: rgba(34, 197, 94, 0.22); }
+    to { background: rgba(34, 197, 94, 0); }
+  }
   .stats-bar {
     display: flex;
     gap: 12px;
@@ -9579,6 +9589,24 @@
       });
     });
     updateStats();
+
+    // Jump to the next unread reading (first unchecked checkbox)
+    var nextCb = null;
+    document.querySelectorAll('.reading-check').forEach(function(cb) {
+      if (!nextCb && !cb.checked) nextCb = cb;
+    });
+    if (nextCb) {
+      var block = nextCb.closest('.reading-block');
+      if (block) {
+        block.classList.add('next-up');
+        setTimeout(function() {
+          block.scrollIntoView({ behavior: 'smooth', block: 'center' });
+        }, 250);
+        setTimeout(function() {
+          block.classList.remove('next-up');
+        }, 4000);
+      }
+    }
   });
 })();
 </script>
